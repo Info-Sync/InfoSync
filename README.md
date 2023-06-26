@@ -11,7 +11,7 @@ If you use our dataset, please cite our ACL 2023 paper: [INFOSYNC: Information S
       Gupta, Vivek  and
       Kataria, Tushar and
       Zhang, Shuo",
-    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics",
     month = jul,
     year = "2023",
     address = "Online",
@@ -29,30 +29,27 @@ After downloading, you have multiple sub-folders with several csv/html/json file
 ```
 data
 │ 
-├── annotation_info
-│   ├── annoations_stats
-│   │   ├── creators.tsv 					# amazon mturk annotator statistics (data annotators)
-│   │   └── validation.tsv 					# amazon mturk annotator statistics (data validators)
-│   └── templates
-│       ├── annotation-template1.html 				# annotation template example 1 
-│       ├── annotation-template2.html 				# annotation template example 2 
-│       ├── annotation-template3.html 				# annotation template example 3 
-│       ├── annotation-template4.html 				# annotation template example 4 
-│       └── validation-template.html 				# validation template
+├── tables
+│   ├── json
+│   │   ├── Airport					# amazon mturk annotator statistics (data annotators)
+│   │   └── Person					# amazon mturk annotator statistics (data validators)
+│   └── html
+│       ├── Airport 				# annotation template example 1 
+│       ├── Person 				    # annotation template example 2 
 │
-├── maindata							# primary infotabs dataset folder
-│   ├── infotabs_dev.tsv 					# development datasplit
-│   ├── infotabs_test_alpha1.tsv 				# test alpha1 datasplit
-│   ├── infotabs_test_alpha2.tsv 				# test alpha2 datasplit
-│   ├── infotabs_test_alpha3.tsv 				# test alpha3 datasplit
-│   └── infotabs_train.tsv 					# training dataset
+├── final_test_set							# primary infotabs dataset folder
+│   ├── Final_Test_Set_Eng_X 					# development datasplit
+│   ├── Final_Test_Set_X_Y 				# test alpha1 datasplit
+│   ├── Final_Test_Set_Eng_X.json 				# test alpha2 datasplit
+│   ├── Final_Test_Set_X_Y.json 				# test alpha3 datasplit
 │
-├── reasoning 							# reasoning statistic folder
-│   ├── infotabs_dev.tsv 					# reasoning on subset of development datasplit
-│   └── infotabs_test_alpha3.tsv 				# reasoning on subset of alpha3 datasplit
 │
-├── tables 							# tables folder
-│   ├── html 							# tables premises in html format
+├── true_test_set						# reasoning statistic folder
+│   ├── True_Test_Set_HI 					# reasoning on subset of development datasplit
+│   └── True_Test_Set_ZH 				# reasoning on subset of alpha3 datasplit
+│
+├── metadata 							# tables folder
+│   ├── Metadata_Eng_X 							# tables premises in html format
 │   │   ├── T0.html
 │   │   ├── T1000.html
 │   │   ├── T1001.html
@@ -61,7 +58,7 @@ data
 │   │   ├── T99.html
 │   │   └── T9.html
 │   │
-│   ├── json							# tables premises in json format
+│   ├── Metadata_X_Y							# tables premises in json format
 │   │   ├── T0.json
 │   │   ├── T1000.json
 │   │   ├── T1001.json
@@ -69,9 +66,9 @@ data
 │   │   ├── T999.json
 │   │   ├── T99.json
 │   │   └── T9.json
-│   └── table_categories.tsv 					# table categories
+│   └── Metadata_Eng_X.json 					# table categories
 │   		  
-├── validation 							# validation annotations folder
+├── csv_data							# validation annotations folder
 │   ├── infotabs_valid_dev.tsv 					# validation annotations development dataset
 │   ├── infotabs_valid_test_alpha1.tsv 				# validation alpha1 annotations datasplit
 │   ├── infotabs_valid_test_alpha2.tsv 				# validation alpha2 annotations datasplit
@@ -81,4 +78,4 @@ data
 
 ```
 
-For the code, check out [here](https://github.com/utahnlp/infotabs-code). Note : Wherever require consider year 2019 as the build date for the dataset.
+For the code, check out [here](https://github.com/utahnlp/infotabs-code). Note : Wherever require consider year 2020 as the build date for the dataset.
