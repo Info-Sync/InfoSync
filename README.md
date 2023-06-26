@@ -1,29 +1,30 @@
 # InfoSync
 <!-- <p align="center"><img width="80%" src="logo.png" /></p> -->
 
-If you use our dataset, please cite our ACL 2020 paper: [INFOTABS: Inference on Tables as Semi-structured Data](https://www.aclweb.org/anthology/2020.acl-main.210.pdf). To explore the dataset online visit [project page](https://infotabs.github.io).
+If you use our dataset, please cite our ACL 2023 paper: [INFOSYNC: Information Synchronization across Multilingual Semi-structured Tables](https://www.aclweb.org/anthology/2020.acl-main.210.pdf).
 
 ```
 @inproceedings{gupta-etal-2020-infotabs,
-    title = "{INFOTABS}: Inference on Tables as Semi-structured Data",
-    author = "Gupta, Vivek  and
-      Mehta, Maitrey  and
-      Nokhiz, Pegah  and
-      Srikumar, Vivek",
+    title = "{INFOSYNC}: Information Synchronization across Multilingual Semi-structured Tables",
+    author = "Khincha, Siddharth  and
+      Jain, Chelsi  and
+      Gupta, Vivek  and
+      Kataria, Tushar and
+      Zhang, Shuo",
     booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
     month = jul,
-    year = "2020",
+    year = "2023",
     address = "Online",
     publisher = "Association for Computational Linguistics",
     url = "https://www.aclweb.org/anthology/2020.acl-main.210",
     pages = "2309--2324",
-    abstract = "In this paper, we observe that semi-structured tabulated text is ubiquitous; understanding them requires not only comprehending the meaning of text fragments, but also implicit relationships between them. We argue that such data can prove as a testing ground for understanding how we reason about information. To study this, we introduce a new dataset called INFOTABS, comprising of human-written textual hypotheses based on premises that are tables extracted from Wikipedia info-boxes. Our analysis shows that the semi-structured, multi-domain and heterogeneous nature of the premises admits complex, multi-faceted reasoning. Experiments reveal that, while human annotators agree on the relationships between a table-hypothesis pair, several standard modeling strategies are unsuccessful at the task, suggesting that reasoning about tables can pose a difficult modeling challenge.",
+    abstract = "Information Synchronization of semi-structured data across languages is challenging. For instance, Wikipedia tables in one language should be synchronized across languages. To address this problem, we introduce a new dataset INFOSYNC and a two-step method for tabular synchronization. INFOSYNC contains 100K entity-centric tables (Wikipedia Infoboxes) across 14 languages, of which a subset (∼3.5K pairs) are manually annotated. The proposed method includes 1) Information Alignment to map rows and 2) Information Update for updating missing/outdated information for aligned tables across multilingual tables. When evaluated on INFOSYNC, information alignment achieves an F1 score of 87.91 (en ↔ non-en). To evaluate information updation, we perform human-assisted Wikipedia edits on Infoboxes for 603 table pairs. Our approach obtains an acceptance rate of 77.28% on Wikipedia, showing the effectiveness of the proposed method."
 }
 ```
 
 Carefully read the LICENCE and the Datasheet for non-academic usage. 
 
-After downloading, you have multiple sub-folders with several csv/tsv/html files. Each csv/tsv file in the sub-folders has 1st rows as a header:
+After downloading, you have multiple sub-folders with several csv/html/json files. Each csv file in the sub-folders has 1st rows as a header:
 
 ```
 data
