@@ -1,0 +1,371 @@
+title,link,en,de,fr,es,nl,ko,ceb,ar,sv,ru,hi,tr,zh,af
+Female,https://en.wikipedia.org/wiki/Female,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Male,https://en.wikipedia.org/wiki/Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Collective noun,https://en.wikipedia.org/wiki/Collective_noun,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Collateral adjective,https://en.wikipedia.org/wiki/Collateral_adjective,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Binomial nomenclature,https://en.wikipedia.org/wiki/Binomial_nomenclature#History,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aves,https://en.wikipedia.org/wiki/Aves,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Chicken,https://en.wikipedia.org/wiki/Chicken,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Bird,https://en.wikipedia.org/wiki/Bird,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Bovinae,https://en.wikipedia.org/wiki/Bovinae,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Herd,https://en.wikipedia.org/wiki/Herd,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Cattle,https://en.wikipedia.org/wiki/Cattle,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Canidae,https://en.wikipedia.org/wiki/Canidae,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Puppy,https://en.wikipedia.org/wiki/Puppy,0,0,1,1,0,0,1,0,1,1,1,0,1,1
+Dog,https://en.wikipedia.org/wiki/Dog,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Pack (canine),https://en.wikipedia.org/wiki/Pack_(canine),0,0,0,0,0,0,1,1,1,0,1,1,1,1
+Cetacea,https://en.wikipedia.org/wiki/Cetacea,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Equidae,https://en.wikipedia.org/wiki/Equidae,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Colt (horse),https://en.wikipedia.org/wiki/Colt_(horse),0,1,1,1,1,1,1,1,1,1,0,1,1,1
+Filly,https://en.wikipedia.org/wiki/Filly,0,1,1,1,1,1,1,1,1,0,0,1,0,1
+Donkey,https://en.wikipedia.org/wiki/Donkey,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Felidae,https://en.wikipedia.org/wiki/Felidae,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Felis,https://en.wikipedia.org/wiki/Felis,1,1,1,1,1,0,1,1,1,1,1,1,1,1
+Lynx,https://en.wikipedia.org/wiki/Lynx,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Puma (genus),https://en.wikipedia.org/wiki/Puma_(genus),1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Panthera,https://en.wikipedia.org/wiki/Panthera,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Suidae,https://en.wikipedia.org/wiki/Suidae,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Procyonidae,https://en.wikipedia.org/wiki/Procyonidae,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Raccoon,https://en.wikipedia.org/wiki/Raccoon,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Viverridae,https://en.wikipedia.org/wiki/Viverridae,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Civet,https://en.wikipedia.org/wiki/Civet,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Mustelidae,https://en.wikipedia.org/wiki/Mustelidae,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Ferret,https://en.wikipedia.org/wiki/Ferret,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Leporidae,https://en.wikipedia.org/wiki/Leporidae,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Osteichthyes,https://en.wikipedia.org/wiki/Osteichthyes,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Shoaling and schooling,https://en.wikipedia.org/wiki/Shoaling_and_schooling,1,0,0,0,0,1,1,1,0,1,1,1,1,1
+Bony fish,https://en.wikipedia.org/wiki/Bony_fish,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Meat,https://en.wikipedia.org/wiki/Meat,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Aardvark,https://en.wikipedia.org/wiki/Aardvark,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Albatross,https://en.wikipedia.org/wiki/Albatross,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Alligator,https://en.wikipedia.org/wiki/Alligator,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Alpaca,https://en.wikipedia.org/wiki/Alpaca,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Anole,https://en.wikipedia.org/wiki/Anole,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Ant,https://en.wikipedia.org/wiki/Ant,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Swarm,https://en.wikipedia.org/wiki/Swarm,1,0,1,1,1,1,1,0,0,1,0,0,0,1
+Anteater,https://en.wikipedia.org/wiki/Anteater,1,1,1,1,1,1,1,1,0,1,1,0,1,1
+Antelope,https://en.wikipedia.org/wiki/Antelope,1,0,1,0,1,0,1,1,1,1,1,1,1,1
+Ape,https://en.wikipedia.org/wiki/Ape,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Armadillo,https://en.wikipedia.org/wiki/Armadillo,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Jenny (donkey),https://en.wikipedia.org/wiki/Jenny_(donkey),1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Baboon,https://en.wikipedia.org/wiki/Baboon,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Badger,https://en.wikipedia.org/wiki/Badger,1,1,1,0,1,1,1,1,1,1,0,1,1,1
+Barracuda,https://en.wikipedia.org/wiki/Barracuda,1,1,1,1,1,1,1,1,1,1,0,0,1,1
+Bat,https://en.wikipedia.org/wiki/Bat,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Bear,https://en.wikipedia.org/wiki/Bear,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+List of bears,https://en.wikipedia.org/wiki/List_of_bears,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Beaver,https://en.wikipedia.org/wiki/Beaver,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Bee,https://en.wikipedia.org/wiki/Bee,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Binturong,https://en.wikipedia.org/wiki/Binturong,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+List of birds,https://en.wikipedia.org/wiki/List_of_birds,0,1,1,0,0,1,1,1,1,1,1,0,1,1
+Bison,https://en.wikipedia.org/wiki/Bison,1,0,1,1,1,1,1,1,1,1,1,1,1,1
+Bluebird,https://en.wikipedia.org/wiki/Bluebird,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Boar,https://en.wikipedia.org/wiki/Boar,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Bobcat,https://en.wikipedia.org/wiki/Bobcat,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Budgerigar,https://en.wikipedia.org/wiki/Budgerigar,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+African buffalo,https://en.wikipedia.org/wiki/African_buffalo,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Butterfly,https://en.wikipedia.org/wiki/Butterfly,1,0,1,1,1,1,1,1,1,1,1,1,1,1
+Camel,https://en.wikipedia.org/wiki/Camel,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Flocking (behaviour),https://en.wikipedia.org/wiki/Flocking_(behaviour),0,1,0,0,1,1,1,1,0,0,1,1,1,1
+Capybara,https://en.wikipedia.org/wiki/Capybara,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Caracal,https://en.wikipedia.org/wiki/Caracal,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Caribou,https://en.wikipedia.org/wiki/Caribou,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Cassowary,https://en.wikipedia.org/wiki/Cassowary,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Cat,https://en.wikipedia.org/wiki/Cat,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+List of cat breeds,https://en.wikipedia.org/wiki/List_of_cat_breeds,0,0,0,0,0,1,1,0,0,0,1,1,0,0
+Kitten,https://en.wikipedia.org/wiki/Kitten,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+Caterpillar,https://en.wikipedia.org/wiki/Caterpillar,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+List of cattle breeds,https://en.wikipedia.org/wiki/List_of_cattle_breeds,0,0,0,0,0,0,1,1,0,0,0,0,1,0
+Calf (animal),https://en.wikipedia.org/wiki/Calf_(animal),0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Bull,https://en.wikipedia.org/wiki/Bull,0,0,0,0,0,0,1,1,0,0,0,1,0,0
+Beef,https://en.wikipedia.org/wiki/Beef,1,0,0,0,0,1,1,0,0,0,0,0,1,0
+Veal,https://en.wikipedia.org/wiki/Veal,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Chamois,https://en.wikipedia.org/wiki/Chamois,1,1,1,1,1,1,1,1,1,1,0,1,1,0
+Cheetah,https://en.wikipedia.org/wiki/Cheetah,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+List of chicken breeds,https://en.wikipedia.org/wiki/List_of_chicken_breeds,0,0,0,1,0,1,1,0,1,0,1,0,1,0
+Rooster,https://en.wikipedia.org/wiki/Rooster,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Capon,https://en.wikipedia.org/wiki/Capon,0,0,0,0,0,1,1,1,0,0,0,1,0,1
+Poultry,https://en.wikipedia.org/wiki/Poultry,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Chimpanzee,https://en.wikipedia.org/wiki/Chimpanzee,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Chinchilla,https://en.wikipedia.org/wiki/Chinchilla,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Chough,https://en.wikipedia.org/wiki/Chough,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Coati,https://en.wikipedia.org/wiki/Coati,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Cobra,https://en.wikipedia.org/wiki/Cobra,1,1,1,1,1,1,1,1,0,1,1,1,1,1
+Cockroach,https://en.wikipedia.org/wiki/Cockroach,1,0,1,1,1,1,1,1,0,1,1,1,1,1
+Cod,https://en.wikipedia.org/wiki/Cod,1,0,1,1,1,1,1,1,0,1,1,1,0,1
+Cormorant,https://en.wikipedia.org/wiki/Cormorant,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Cougar,https://en.wikipedia.org/wiki/Cougar,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Coyote,https://en.wikipedia.org/wiki/Coyote,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Crab,https://en.wikipedia.org/wiki/Crab,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Crane (bird),https://en.wikipedia.org/wiki/Crane_(bird),1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Cricket (insect),https://en.wikipedia.org/wiki/Cricket_(insect),1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Crocodile,https://en.wikipedia.org/wiki/Crocodile,1,1,1,1,1,0,1,1,1,1,1,1,1,1
+Crow,https://en.wikipedia.org/wiki/Crow,0,1,1,1,1,0,1,1,1,1,1,1,1,1
+Cuckoo,https://en.wikipedia.org/wiki/Cuckoo,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Curlew,https://en.wikipedia.org/wiki/Curlew,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Deer,https://en.wikipedia.org/wiki/Deer,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Venison,https://en.wikipedia.org/wiki/Venison,0,1,0,0,1,0,1,1,1,0,1,1,1,1
+Dhole,https://en.wikipedia.org/wiki/Dhole,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Dingo,https://en.wikipedia.org/wiki/Dingo,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Dinosaur,https://en.wikipedia.org/wiki/Dinosaur,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+List of dinosaur genera,https://en.wikipedia.org/wiki/List_of_dinosaur_genera,0,1,0,0,0,0,0,0,0,0,1,0,0,1
+List of dog breeds,https://en.wikipedia.org/wiki/List_of_dog_breeds,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Squalidae,https://en.wikipedia.org/wiki/Squalidae,1,1,1,1,1,1,1,1,1,1,0,0,1,1
+Spiny dogfish,https://en.wikipedia.org/wiki/Spiny_dogfish,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Flake (fish),https://en.wikipedia.org/wiki/Flake_(fish),0,1,1,1,1,1,1,1,1,1,0,1,1,1
+Rock salmon,https://en.wikipedia.org/wiki/Rock_salmon,0,1,1,1,1,1,1,0,1,1,0,1,1,1
+Dolphin,https://en.wikipedia.org/wiki/Dolphin,1,1,1,1,1,1,1,1,1,1,0,1,0,1
+List of donkey breeds,https://en.wikipedia.org/wiki/List_of_donkey_breeds,0,0,0,1,0,1,1,1,1,1,0,1,0,1
+Dove,https://en.wikipedia.org/wiki/Dove,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Dragonfly,https://en.wikipedia.org/wiki/Dragonfly,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Duck,https://en.wikipedia.org/wiki/Duck,1,1,1,0,1,1,1,1,1,1,1,1,1,1
+List of duck breeds,https://en.wikipedia.org/wiki/List_of_duck_breeds,0,0,0,0,1,1,1,0,1,0,1,0,1,1
+Dugong,https://en.wikipedia.org/wiki/Dugong,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Dunlin,https://en.wikipedia.org/wiki/Dunlin,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Eagle,https://en.wikipedia.org/wiki/Eagle,1,0,1,1,1,1,1,1,1,1,1,1,1,1
+Echidna,https://en.wikipedia.org/wiki/Echidna,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Eel,https://en.wikipedia.org/wiki/Eel,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Taurotragus,https://en.wikipedia.org/wiki/Taurotragus,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Elephant,https://en.wikipedia.org/wiki/Elephant,1,1,1,1,1,1,1,1,0,1,1,1,1,1
+Elephant seal,https://en.wikipedia.org/wiki/Elephant_seal,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Elk,https://en.wikipedia.org/wiki/Elk,1,1,1,1,1,1,1,1,1,0,0,1,1,1
+Emu,https://en.wikipedia.org/wiki/Emu,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Falcon,https://en.wikipedia.org/wiki/Falcon,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Finch,https://en.wikipedia.org/wiki/Finch,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Fish,https://en.wikipedia.org/wiki/Fish,1,0,1,1,1,1,1,1,1,1,0,0,1,1
+List of common fish names,https://en.wikipedia.org/wiki/List_of_common_fish_names,0,0,0,1,0,1,1,1,1,1,0,0,1,0
+Fisher (animal),https://en.wikipedia.org/wiki/Fisher_(animal),1,1,1,1,1,1,1,1,1,1,0,0,1,0
+Flamingo,https://en.wikipedia.org/wiki/Flamingo,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+Fly,https://en.wikipedia.org/wiki/Fly,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Old World flycatcher,https://en.wikipedia.org/wiki/Old_World_flycatcher,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Fox,https://en.wikipedia.org/wiki/Fox,1,0,1,1,1,1,1,1,1,1,1,1,1,1
+Vixen,https://en.wikipedia.org/wiki/Vixen,1,0,1,1,1,1,1,1,1,1,1,1,1,1
+Frog,https://en.wikipedia.org/wiki/Frog,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Gaur,https://en.wikipedia.org/wiki/Gaur,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Gazelle,https://en.wikipedia.org/wiki/Gazelle,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Gecko,https://en.wikipedia.org/wiki/Gecko,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Herpetoculture,https://en.wikipedia.org/wiki/Herpetoculture,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+Genet (animal),https://en.wikipedia.org/wiki/Genet_(animal),1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Gerbil,https://en.wikipedia.org/wiki/Gerbil,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Giant panda,https://en.wikipedia.org/wiki/Giant_panda,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Giraffe,https://en.wikipedia.org/wiki/Giraffe,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Gnat,https://en.wikipedia.org/wiki/Gnat,0,1,1,1,1,1,1,0,1,1,0,1,1,1
+Wildebeest,https://en.wikipedia.org/wiki/Wildebeest,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Goat,https://en.wikipedia.org/wiki/Goat,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+List of goat breeds,https://en.wikipedia.org/wiki/List_of_goat_breeds,0,0,0,1,0,1,1,0,1,0,1,1,1,1
+Goat meat,https://en.wikipedia.org/wiki/Goat_meat,0,0,0,0,0,0,1,0,1,0,1,1,1,0
+Lamb and mutton,https://en.wikipedia.org/wiki/Lamb_and_mutton,0,0,0,0,0,0,1,0,0,0,1,0,1,0
+European goldfinch,https://en.wikipedia.org/wiki/European_goldfinch,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+Common merganser,https://en.wikipedia.org/wiki/Common_merganser,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+Goose,https://en.wikipedia.org/wiki/Goose,0,1,1,0,0,1,1,1,1,1,1,1,1,1
+Wikipedia:Citation needed,https://en.wikipedia.org/wiki/Wikipedia:Citation_needed,0,0,0,0,0,0,1,0,1,1,0,1,0,1
+Gorilla,https://en.wikipedia.org/wiki/Gorilla,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Blackback,https://en.wikipedia.org/wiki/Blackback,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Silverback,https://en.wikipedia.org/wiki/Silverback,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Goshawk,https://en.wikipedia.org/wiki/Goshawk,0,1,1,1,1,1,1,1,1,1,0,1,1,1
+Grasshopper,https://en.wikipedia.org/wiki/Grasshopper,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Grouse,https://en.wikipedia.org/wiki/Grouse,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Guanaco,https://en.wikipedia.org/wiki/Guanaco,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Guinea fowl,https://en.wikipedia.org/wiki/Guinea_fowl,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Guinea pig,https://en.wikipedia.org/wiki/Guinea_pig,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Guinea pig,https://en.wikipedia.org/wiki/Guinea_pig#As_food,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Gull,https://en.wikipedia.org/wiki/Gull,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Hamster,https://en.wikipedia.org/wiki/Hamster,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+Hare,https://en.wikipedia.org/wiki/Hare,1,1,1,1,1,1,1,1,1,1,1,0,1,0
+Hawk,https://en.wikipedia.org/wiki/Hawk,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+Kettle (birds),https://en.wikipedia.org/wiki/Kettle_(birds),0,1,1,1,1,1,1,1,1,1,1,1,1,0
+Hedgehog,https://en.wikipedia.org/wiki/Hedgehog,1,1,1,1,1,1,1,1,1,1,0,1,1,0
+Hermit crab,https://en.wikipedia.org/wiki/Hermit_crab,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Heron,https://en.wikipedia.org/wiki/Heron,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Herring,https://en.wikipedia.org/wiki/Herring,1,1,0,1,1,1,1,1,1,1,1,1,0,1
+Hippopotamus,https://en.wikipedia.org/wiki/Hippopotamus,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Hoatzin,https://en.wikipedia.org/wiki/Hoatzin,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Hoopoe,https://en.wikipedia.org/wiki/Hoopoe,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Hornet,https://en.wikipedia.org/wiki/Hornet,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Horse,https://en.wikipedia.org/wiki/Horse,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+List of horse breeds,https://en.wikipedia.org/wiki/List_of_horse_breeds,0,0,0,0,0,1,1,0,0,0,1,1,1,1
+Foal,https://en.wikipedia.org/wiki/Foal,0,0,0,0,0,1,1,0,0,0,1,1,1,1
+Gelding,https://en.wikipedia.org/wiki/Gelding,0,0,0,0,0,0,1,0,0,0,1,1,0,1
+Mare,https://en.wikipedia.org/wiki/Mare,0,0,0,0,0,0,1,0,0,0,1,1,0,1
+Stallion (horse),https://en.wikipedia.org/wiki/Stallion_(horse),0,0,0,0,0,0,1,0,0,0,1,0,0,1
+Human,https://en.wikipedia.org/wiki/Human,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+Hummingbird,https://en.wikipedia.org/wiki/Hummingbird,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Hyena,https://en.wikipedia.org/wiki/Hyena,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Ibex,https://en.wikipedia.org/wiki/Ibex,0,0,0,1,0,1,1,0,1,1,1,1,1,1
+Ibis,https://en.wikipedia.org/wiki/Ibis,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Iguana,https://en.wikipedia.org/wiki/Iguana,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Impala,https://en.wikipedia.org/wiki/Impala,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Jackal,https://en.wikipedia.org/wiki/Jackal,1,0,1,1,1,1,1,1,1,1,1,1,1,1
+Jaguar,https://en.wikipedia.org/wiki/Jaguar,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Jay,https://en.wikipedia.org/wiki/Jay,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+Jellyfish,https://en.wikipedia.org/wiki/Jellyfish,1,0,1,1,1,1,1,1,0,0,1,1,1,1
+Planula,https://en.wikipedia.org/wiki/Planula,0,0,0,0,0,1,1,0,0,0,1,1,0,1
+Polyp (zoology),https://en.wikipedia.org/wiki/Polyp_(zoology),0,0,0,0,0,0,1,0,0,0,1,1,0,0
+Jellyfish,https://en.wikipedia.org/wiki/Jellyfish#Blooms,1,0,1,1,1,1,1,1,0,0,1,1,1,1
+Scyphozoa,https://en.wikipedia.org/wiki/Scyphozoa,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Jerboa,https://en.wikipedia.org/wiki/Jerboa,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Kangaroo,https://en.wikipedia.org/wiki/Kangaroo,1,1,1,1,1,1,1,1,0,1,1,1,1,1
+Kingbird,https://en.wikipedia.org/wiki/Kingbird,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Kingfisher,https://en.wikipedia.org/wiki/Kingfisher,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Kinkajou,https://en.wikipedia.org/wiki/Kinkajou,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Kite (bird),https://en.wikipedia.org/wiki/Kite_(bird),1,1,1,1,0,1,1,1,1,1,1,1,1,1
+Koala,https://en.wikipedia.org/wiki/Koala,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Kodkod,https://en.wikipedia.org/wiki/Kodkod,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Komodo dragon,https://en.wikipedia.org/wiki/Komodo_dragon,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Kookaburra,https://en.wikipedia.org/wiki/Kookaburra,1,1,1,1,1,1,1,1,1,1,1,1,0,1
+Kouprey,https://en.wikipedia.org/wiki/Kouprey,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Kudu,https://en.wikipedia.org/wiki/Kudu,0,1,0,1,1,0,1,1,1,1,1,1,1,1
+Gray langur,https://en.wikipedia.org/wiki/Gray_langur,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+Lapwing,https://en.wikipedia.org/wiki/Lapwing,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Lark,https://en.wikipedia.org/wiki/Lark,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Lechwe,https://en.wikipedia.org/wiki/Lechwe,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Lemur,https://en.wikipedia.org/wiki/Lemur,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Leopard,https://en.wikipedia.org/wiki/Leopard,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Lion,https://en.wikipedia.org/wiki/Lion,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Lizard,https://en.wikipedia.org/wiki/Lizard,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Llama,https://en.wikipedia.org/wiki/Llama,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Lobster,https://en.wikipedia.org/wiki/Lobster,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Locust,https://en.wikipedia.org/wiki/Locust,0,0,1,0,1,1,1,1,0,1,0,1,1,1
+List of locust species,https://en.wikipedia.org/wiki/List_of_locust_species,0,0,1,0,0,1,1,1,0,1,0,1,1,1
+Loris,https://en.wikipedia.org/wiki/Loris,1,0,1,1,1,1,1,1,0,1,1,1,1,1
+Louse,https://en.wikipedia.org/wiki/Louse,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Lyrebird,https://en.wikipedia.org/wiki/Lyrebird,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Macaque,https://en.wikipedia.org/wiki/Macaque,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Macaw,https://en.wikipedia.org/wiki/Macaw,1,1,1,1,1,1,1,1,1,1,0,1,0,1
+Magpie,https://en.wikipedia.org/wiki/Magpie,1,1,1,1,1,0,1,1,1,1,0,1,0,1
+Mallard,https://en.wikipedia.org/wiki/Mallard,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Mammoth,https://en.wikipedia.org/wiki/Mammoth,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Manatee,https://en.wikipedia.org/wiki/Manatee,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Mandrill,https://en.wikipedia.org/wiki/Mandrill,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Margay,https://en.wikipedia.org/wiki/Margay,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Marmoset,https://en.wikipedia.org/wiki/Marmoset,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Marmot,https://en.wikipedia.org/wiki/Marmot,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Meerkat,https://en.wikipedia.org/wiki/Meerkat,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Mink,https://en.wikipedia.org/wiki/Mink,1,0,1,0,1,1,1,1,1,1,1,1,1,1
+Mole (animal),https://en.wikipedia.org/wiki/Mole_(animal),0,1,1,0,1,1,1,1,1,1,1,1,0,1
+Mongoose,https://en.wikipedia.org/wiki/Mongoose,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Monkey,https://en.wikipedia.org/wiki/Monkey,1,1,0,0,1,1,1,1,1,1,1,1,1,1
+Moose,https://en.wikipedia.org/wiki/Moose,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Mosquito,https://en.wikipedia.org/wiki/Mosquito,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Mouse,https://en.wikipedia.org/wiki/Mouse,0,1,1,1,0,0,1,1,1,1,0,1,1,1
+Myna,https://en.wikipedia.org/wiki/Myna,1,1,1,1,0,0,1,1,1,1,0,1,1,1
+Narwhal,https://en.wikipedia.org/wiki/Narwhal,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Newt,https://en.wikipedia.org/wiki/Newt,1,0,1,1,1,1,1,1,1,0,0,1,1,1
+Nightingale,https://en.wikipedia.org/wiki/Nightingale,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Nilgai,https://en.wikipedia.org/wiki/Nilgai,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Ocelot,https://en.wikipedia.org/wiki/Ocelot,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Octopus,https://en.wikipedia.org/wiki/Octopus,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Okapi,https://en.wikipedia.org/wiki/Okapi,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Oncilla,https://en.wikipedia.org/wiki/Oncilla,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Opossum,https://en.wikipedia.org/wiki/Opossum,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Orangutan,https://en.wikipedia.org/wiki/Orangutan,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Oryx,https://en.wikipedia.org/wiki/Oryx,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Ostrich,https://en.wikipedia.org/wiki/Ostrich,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Otter,https://en.wikipedia.org/wiki/Otter,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Ox,https://en.wikipedia.org/wiki/Ox,0,0,0,0,0,1,1,1,0,0,0,1,1,0
+Owl,https://en.wikipedia.org/wiki/Owl,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Oyster,https://en.wikipedia.org/wiki/Oyster,1,0,1,1,0,0,1,1,1,1,0,1,1,1
+Black panther,https://en.wikipedia.org/wiki/Black_panther,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Parrot,https://en.wikipedia.org/wiki/Parrot,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Panda,https://en.wikipedia.org/wiki/Panda,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Partridge,https://en.wikipedia.org/wiki/Partridge,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Peafowl,https://en.wikipedia.org/wiki/Peafowl,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Penguin,https://en.wikipedia.org/wiki/Penguin,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Pheasant,https://en.wikipedia.org/wiki/Pheasant,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Domestic pig,https://en.wikipedia.org/wiki/Domestic_pig,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+List of pig breeds,https://en.wikipedia.org/wiki/List_of_pig_breeds,0,0,0,1,0,1,1,1,1,1,1,1,0,1
+Pork,https://en.wikipedia.org/wiki/Pork,1,0,0,0,0,1,1,0,0,0,1,0,1,0
+Ham,https://en.wikipedia.org/wiki/Ham,1,0,0,0,0,0,1,1,0,0,1,0,0,0
+Bacon,https://en.wikipedia.org/wiki/Bacon,1,0,0,0,0,0,1,1,0,0,1,0,0,0
+Pigeon,https://en.wikipedia.org/wiki/Pigeon,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+List of pigeon breeds,https://en.wikipedia.org/wiki/List_of_pigeon_breeds,0,0,0,1,0,1,1,1,1,1,0,1,1,1
+Squab (food),https://en.wikipedia.org/wiki/Squab_(food),1,0,0,1,0,1,1,0,1,0,0,1,0,1
+Pika,https://en.wikipedia.org/wiki/Pika,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Polar bear,https://en.wikipedia.org/wiki/Polar_bear,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Pony,https://en.wikipedia.org/wiki/Pony,0,0,1,0,0,0,1,0,0,1,1,0,0,1
+Porcupine,https://en.wikipedia.org/wiki/Porcupine,1,0,1,0,0,0,1,1,0,1,1,0,1,1
+Porpoise,https://en.wikipedia.org/wiki/Porpoise,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Prairie dog,https://en.wikipedia.org/wiki/Prairie_dog,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Pug,https://en.wikipedia.org/wiki/Pug,1,1,1,1,1,0,1,0,1,1,1,1,1,1
+Quail,https://en.wikipedia.org/wiki/Quail,1,1,1,1,1,0,1,1,1,1,1,1,1,1
+Quelea,https://en.wikipedia.org/wiki/Quelea,1,1,1,1,1,0,1,1,1,1,1,1,1,1
+Quetzal,https://en.wikipedia.org/wiki/Quetzal,1,1,1,1,1,0,1,1,1,1,1,1,1,1
+Rabbit,https://en.wikipedia.org/wiki/Rabbit,1,0,1,1,1,1,1,1,0,1,1,1,1,1
+List of rabbit breeds,https://en.wikipedia.org/wiki/List_of_rabbit_breeds,0,0,0,1,0,1,1,1,0,0,1,1,1,1
+Sheep,https://en.wikipedia.org/wiki/Sheep,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Rat,https://en.wikipedia.org/wiki/Rat,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+List of rat species,https://en.wikipedia.org/wiki/List_of_rat_species,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+Raven,https://en.wikipedia.org/wiki/Raven,0,1,1,1,1,0,1,1,1,1,1,1,1,1
+Red deer,https://en.wikipedia.org/wiki/Red_deer,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Red panda,https://en.wikipedia.org/wiki/Red_panda,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Reindeer,https://en.wikipedia.org/wiki/Reindeer,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Rhea (bird),https://en.wikipedia.org/wiki/Rhea_(bird),1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Rhinoceros,https://en.wikipedia.org/wiki/Rhinoceros,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Rook (bird),https://en.wikipedia.org/wiki/Rook_(bird),1,1,1,1,1,0,1,1,1,1,0,1,1,1
+Saki monkey,https://en.wikipedia.org/wiki/Saki_monkey,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Salamander,https://en.wikipedia.org/wiki/Salamander,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Salmon,https://en.wikipedia.org/wiki/Salmon,1,0,1,1,1,1,1,1,1,1,1,1,0,1
+Sand dollar,https://en.wikipedia.org/wiki/Sand_dollar,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Sandpiper,https://en.wikipedia.org/wiki/Sandpiper,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Sardine,https://en.wikipedia.org/wiki/Sardine,0,1,1,0,1,1,1,0,1,0,1,1,1,1
+Common tsessebe,https://en.wikipedia.org/wiki/Common_tsessebe,1,0,1,1,1,1,1,1,1,1,1,1,1,1
+Sea lion,https://en.wikipedia.org/wiki/Sea_lion,1,0,1,1,1,1,1,1,1,1,1,1,1,1
+Seahorse,https://en.wikipedia.org/wiki/Seahorse,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Pinniped,https://en.wikipedia.org/wiki/Pinniped,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Serval,https://en.wikipedia.org/wiki/Serval,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Shark,https://en.wikipedia.org/wiki/Shark,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+List of sheep breeds,https://en.wikipedia.org/wiki/List_of_sheep_breeds,0,0,0,1,0,1,1,0,1,1,1,1,1,1
+Shrew,https://en.wikipedia.org/wiki/Shrew,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Shrike,https://en.wikipedia.org/wiki/Shrike,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Siamang,https://en.wikipedia.org/wiki/Siamang,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Skink,https://en.wikipedia.org/wiki/Skink,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Skipper (butterfly),https://en.wikipedia.org/wiki/Skipper_(butterfly),1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Skunk,https://en.wikipedia.org/wiki/Skunk,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Sloth,https://en.wikipedia.org/wiki/Sloth,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Snail,https://en.wikipedia.org/wiki/Snail,1,1,1,1,1,1,1,1,1,1,0,1,1,0
+Escargot,https://en.wikipedia.org/wiki/Escargot,0,0,1,0,0,0,1,1,0,0,0,1,0,0
+Snake,https://en.wikipedia.org/wiki/Snake,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+List of snake genera,https://en.wikipedia.org/wiki/List_of_snake_genera,0,1,1,1,1,1,1,1,1,1,0,1,1,1
+Spider,https://en.wikipedia.org/wiki/Spider,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+List of spider common names,https://en.wikipedia.org/wiki/List_of_spider_common_names,0,0,1,1,1,1,1,1,1,0,0,1,1,1
+Spoonbill,https://en.wikipedia.org/wiki/Spoonbill,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Squid,https://en.wikipedia.org/wiki/Squid,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Squirrel,https://en.wikipedia.org/wiki/Squirrel,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Starling,https://en.wikipedia.org/wiki/Starling,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Stilt,https://en.wikipedia.org/wiki/Stilt,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Swan,https://en.wikipedia.org/wiki/Swan,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Tamarin,https://en.wikipedia.org/wiki/Tamarin,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+Tapir,https://en.wikipedia.org/wiki/Tapir,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Tarsier,https://en.wikipedia.org/wiki/Tarsier,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Termite,https://en.wikipedia.org/wiki/Termite,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Thrush (bird),https://en.wikipedia.org/wiki/Thrush_(bird),1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Tiger,https://en.wikipedia.org/wiki/Tiger,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Toad,https://en.wikipedia.org/wiki/Toad,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+Topi,https://en.wikipedia.org/wiki/Topi,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+Toucan,https://en.wikipedia.org/wiki/Toucan,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Turaco,https://en.wikipedia.org/wiki/Turaco,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Domesticated turkey,https://en.wikipedia.org/wiki/Domesticated_turkey,1,0,1,1,1,1,1,1,0,1,1,1,1,1
+List of turkey breeds,https://en.wikipedia.org/wiki/List_of_turkey_breeds,0,0,0,1,1,1,1,1,0,0,1,1,1,1
+Turtle,https://en.wikipedia.org/wiki/Turtle,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Vicuña,https://en.wikipedia.org/wiki/Vicu%C3%B1a,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Thelyphonida,https://en.wikipedia.org/wiki/Thelyphonida,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Viper,https://en.wikipedia.org/wiki/Viper,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Vulture,https://en.wikipedia.org/wiki/Vulture,1,0,1,1,0,0,1,1,0,1,0,1,1,1
+Wallaby,https://en.wikipedia.org/wiki/Wallaby,0,1,1,1,0,0,1,0,1,0,1,0,1,1
+Walrus,https://en.wikipedia.org/wiki/Walrus,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Wasp,https://en.wikipedia.org/wiki/Wasp,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Water buffalo,https://en.wikipedia.org/wiki/Water_buffalo,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Carabeef,https://en.wikipedia.org/wiki/Carabeef,0,0,1,1,1,0,1,1,1,1,0,1,1,1
+Waxwing,https://en.wikipedia.org/wiki/Waxwing,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Weasel,https://en.wikipedia.org/wiki/Weasel,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Whale,https://en.wikipedia.org/wiki/Whale,1,1,1,1,0,0,1,1,1,1,0,1,0,1
+Blubber,https://en.wikipedia.org/wiki/Blubber,0,0,0,0,0,0,1,1,0,0,0,1,0,1
+Wobbegong,https://en.wikipedia.org/wiki/Wobbegong,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Wolf,https://en.wikipedia.org/wiki/Wolf,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Wolverine,https://en.wikipedia.org/wiki/Wolverine,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Wombat,https://en.wikipedia.org/wiki/Wombat,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Woodpecker,https://en.wikipedia.org/wiki/Woodpecker,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Worm,https://en.wikipedia.org/wiki/Worm,0,0,1,0,1,0,1,0,0,1,1,0,0,1
+Wren,https://en.wikipedia.org/wiki/Wren,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Domestic Yak,https://en.wikipedia.org/wiki/Domestic_Yak,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Zebra,https://en.wikipedia.org/wiki/Zebra,1,1,1,1,1,1,0,1,1,1,1,1,1,1

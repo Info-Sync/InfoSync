@@ -5,8 +5,8 @@ def download_tables(csv_name):
     for x in get_csv()[:1]:
         df = pd.read_csv(csv)
         print(csv)
-        os.system("mkdir tables/html")
-        os.system("mkdir tables/html/"+csv[:-4])
+        os.system("mkdir data/tables/html")
+        os.system("mkdir data/tables/html/"+csv[:-4])
         for i in range(38,125):
             title = df['title'][i]
             titlespl = title.split(" ")
@@ -22,15 +22,15 @@ def download_tables(csv_name):
                         print(title)
                         break
             if(count>=5):
-                os.system("mkdir tables/html/"+csv[:-4]+"/"+title)
+                os.system("mkdir data/tables/html/"+csv[:-4]+"/"+title)
                 for language in lang:
                     try:
-                        os.system("mkdir tables/html/"+csv[:-4]+"/"+title+"/"+language)
-                        file = open("tables/html/"+csv[:-4]+"/"+title+"/"+language+"/table.html","w")
+                        os.system("mkdir data/tables/html/"+csv[:-4]+"/"+title+"/"+language)
+                        file = open("data/tables/html/"+csv[:-4]+"/"+title+"/"+language+"/table.html","w")
                         file.write(str(get_table(get_link(df['title'][i],df['link'][i],language))))
                     except (TypeError,AttributeError):
-                            print('failed at '+"tables/html/"+csv[:-4]+"/"+title+"/"+language+"/table.html")
-                            file = open("tables/html/"+csv[:-4]+"/"+title+"/"+language+"/table.html","w")
+                            print('failed at '+"data/tables/html/"+csv[:-4]+"/"+title+"/"+language+"/table.html")
+                            file = open("data/tables/html/"+csv[:-4]+"/"+title+"/"+language+"/table.html","w")
                             file.write("")
 
 
@@ -62,7 +62,7 @@ def checker(soup,language,csv):
 
 
 def main():
-    for csv_file in os.listdir(directory_path):
+    for csv_file in os.listdir("data/csv_data"):
         download_tables(csv_file)
 
 if __name__ == "__main__":

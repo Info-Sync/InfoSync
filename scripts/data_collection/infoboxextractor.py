@@ -49,7 +49,7 @@ def check_if_infobox(link):
 
 #A function which returns a list of csv files in the current directory
 def get_csv():    
-    csv_files = [pos_csv for pos_csv in os.listdir('/content/drive/MyDrive/Info_Sync') if pos_csv.endswith('.csv')]
+    csv_files = [pos_csv for pos_csv in os.listdir('data/csv_data') if pos_csv.endswith('.csv')]
     return csv_files
 #check_if_infobox()
 
@@ -383,7 +383,7 @@ def store_json(orig):
 def store_json_all(orig):
     s1 = orig.split("/")
     json_file = convert_to_json(orig, s1[-2], s1[2])
-    file = open("tables/json/"+topic.name+"/"+n.name+"/"+language+"/table.html","w",encoding ="utf8")
+    file = open("data/tables/json/"+topic.name+"/"+n.name+"/"+language+"/table.html","w",encoding ="utf8")
     file.write(json2html.convert(json=json_file))
     file.close()
 

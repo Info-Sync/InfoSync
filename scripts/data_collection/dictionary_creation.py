@@ -7,7 +7,7 @@ def get_main_arr(topic):
         count_dict = {}
         value_dict = {}
         print(language)
-        names = os.listdir("tables/json/"+topic)
+        names = os.listdir("data/tables/json/"+topic)
         print(len(names))
         count = 0
         for name in names:
@@ -19,7 +19,7 @@ def get_main_arr(topic):
             jsp = []
             if(language=="en"):
                 try:
-                    t1 = checker(open_table("tables/json/"+topic+"/"+name+"/"+"en"+"/table.html"),"en",topic+".csv")
+                    t1 = checker(open_table("data/tables/json/"+topic+"/"+name+"/"+"en"+"/table.html"),"en",topic+".csv")
                 except KeyboardInterrupt:
                     exit(0)
                 except:
@@ -27,8 +27,8 @@ def get_main_arr(topic):
                     continue
             else:
                 try:
-                    t1 = checker(open_table("tables/json/"+topic+"/"+name+"/"+language+"/final_translations.html"),"en",topic+".csv")
-                    t2 = checker(open_table("tables/json/"+topic+"/"+name+"/"+language+"/table.html"),language,topic+".csv")
+                    t1 = checker(open_table("data/tables/json/"+topic+"/"+name+"/"+language+"/final_translations.html"),"en",topic+".csv")
+                    t2 = checker(open_table("data/tables/json/"+topic+"/"+name+"/"+language+"/table.html"),language,topic+".csv")
                 except KeyboardInterrupt:
                     exit(0)
                 except:
