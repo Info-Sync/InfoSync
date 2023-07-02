@@ -30,14 +30,14 @@ After downloading, you have multiple sub-folders with several csv/html/json file
 data
 │ 
 ├── tables
-│   ├── json				                # contains json data for all the categories. Files are in html format for easies understanding of the data
+│   ├── json				    # contains json data for all the categories. Files are in html format for easies understanding of the data
 │   └── html                                # data scraped for all the categories
 │
-├── final_test_set							# test set, built using semi-automated pipeline. Annotated by humans using translations
-│   ├── Final_Test_Set_Eng_X 				# contains files for Eng_X for all categories
-│   ├── Final_Test_Set_X_Y 				    # contains files for X_Y for all categories
-│   ├── Final_Test_Set_Eng_X.json 			# json file with all annotations for Eng_X
-│   └── Final_Test_Set_X_Y.json 			# json file with all annotations for X_Y
+├── final_test_set		            # test set, built using semi-automated pipeline. Annotated by humans using translations
+│   ├── Final_Test_Set_Eng_X 		    # contains files for Eng_X for all categories
+│   ├── Final_Test_Set_X_Y 	            # contains files for X_Y for all categories
+│   ├── Final_Test_Set_Eng_X.json 		# json file with all annotations for Eng_X
+│   └── Final_Test_Set_X_Y.json 		# json file with all annotations for X_Y
 │
 │
 ├── true_test_set						    # true-test-set, annotated by native speakers of Hindi and Chinese without using translations
