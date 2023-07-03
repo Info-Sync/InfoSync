@@ -1,25 +1,10 @@
 # InfoSync
 <!-- <p align="center"><img width="80%" src="logo.png" /></p> -->
 
-Implementation of the semi-structured inference model in our [ACL 2023](https://2023.aclweb.org/) paper: [INFOSYNC: Information Synchronization across Multilingual Semi-structured Tables](https://www.aclweb.org/anthology/2020.acl-main.210.pdf). To explore the dataset online visit [project page](https://info-sync.github.io/info-sync/).
+Implementation of the semi-structured inference model in our [ACL 2023](https://2023.aclweb.org/) paper: [INFOSYNC: Information Synchronization across Multilingual Semi-structured Tables](https://vgupta123.github.io/docs/infosync_paper.pdf). To explore the dataset online visit [project page](https://info-sync.github.io/info-sync/).
 
 ```
-@inproceedings{gupta-etal-2020-infotabs,
-    title = "{INFOSYNC}: Information Synchronization across Multilingual Semi-structured Tables",
-    author = "Khincha, Siddharth  and
-      Jain, Chelsi  and
-      Gupta, Vivek  and
-      Kataria, Tushar and
-      Zhang, Shuo",
-    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics",
-    month = jul,
-    year = "2023",
-    address = "Online",
-    publisher = "Association for Computational Linguistics",
-    url = "https://www.aclweb.org/anthology/2020.acl-main.210",
-    pages = "2309--2324",
-    abstract = "Information Synchronization of semi-structured data across languages is challenging. For instance, Wikipedia tables in one language should be synchronized across languages. To address this problem, we introduce a new dataset INFOSYNC and a two-step method for tabular synchronization. INFOSYNC contains 100K entity-centric tables (Wikipedia Infoboxes) across 14 languages, of which a subset (∼3.5K pairs) are manually annotated. The proposed method includes 1) Information Alignment to map rows and 2) Information Update for updating missing/outdated information for aligned tables across multilingual tables. When evaluated on INFOSYNC, information alignment achieves an F1 score of 87.91 (en ↔ non-en). To evaluate information updation, we perform human-assisted Wikipedia edits on Infoboxes for 603 table pairs. Our approach obtains an acceptance rate of 77.28% on Wikipedia, showing the effectiveness of the proposed method."
-}
+TO BE ADDED
 ```
 
 Below are the details about the [INFOSYNC datasets](https://github.com/Info-Sync/InfoSync) and scripts for reproducing the results reported in the [ACL 2023](https://2023.aclweb.org/) paper.
