@@ -21,25 +21,25 @@ data
 ├── final_test_set		            # test set, built using semi-automated pipeline. Annotated by humans using translations
 │   ├── Final_Test_Set_Eng_X 		    # contains files for Eng_X for all categories
 │   ├── Final_Test_Set_X_Y 	            # contains files for X_Y for all categories
-│   ├── Final_Test_Set_Eng_X.json 		# json file with all annotations for Eng_X
-│   └── Final_Test_Set_X_Y.json 		# json file with all annotations for X_Y
+│   ├── Final_Test_Set_Eng_X.json 	    # json file with all annotations for Eng_X
+│   └── Final_Test_Set_X_Y.json 	    # json file with all annotations for X_Y
 │
 │
-├── true_test_set						    # true-test-set, annotated by native speakers of Hindi and Chinese without using translations
-│   ├── True_Test_Set_HI 					# contains files for Eng_HI for all categories
-│   ├── True_Test_Set_ZH 				    # contains files for Eng_ZH for all categories
-│   ├── True_Test_Set_HI.json 			    # json file with all annotations for Eng_HI
-│   └── True_Test_Set_ZH.json 			    # json file with all annotations for Eng_ZH
+├── true_test_set			    # true-test-set, annotated by native speakers of Hindi and Chinese without using translations
+│   ├── True_Test_Set_HI 		    # contains files for Eng_HI for all categories
+│   ├── True_Test_Set_ZH 		    # contains files for Eng_ZH for all categories
+│   ├── True_Test_Set_HI.json 	            # json file with all annotations for Eng_HI
+│   └── True_Test_Set_ZH.json 		    # json file with all annotations for Eng_ZH
 |
-├── metadata 							    # metadata for error analysis
+├── metadata 			            # metadata for error analysis
 │   ├── Metadata_Eng_X 
 │   ├── Metadata_X_Y						
 │   ├── Metadata_Eng_X.json 							
 |   └── Metadata_X_Y.json 
 │   		  
-├── csv_data						        # csv data for all categories, with links for different wikipedia pages
+├── csv_data				    # csv data for all categories, with links for different wikipedia pages
 │
-└── LICENSE, Datasheet, README.md, logo		#license,datasheet,dataset readme, logo files.
+└── LICENSE, Datasheet, README.md, logo	    #license,datasheet,dataset readme, logo files.
 
 ```
 
