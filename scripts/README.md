@@ -56,10 +56,10 @@ data
 
 ```
  
-## 1. Training and Prediction with linearSVM
+## 1. Dataset
 ```data/maindata/``` and ```data/tables/``` will be the primary datasets folders to work on here.
 
-### 1.1 Preprocessing
+### 1.1 Collection
 Preprocessing is separated into the following steps.
 
 First extract something out of the json files. Assume the data is downloaded and unpacked into ```data/maindata/```
@@ -84,7 +84,7 @@ temp/data/
     └── train.tsv 						# training datasplit
 
 ```
-### 1.2 Convert to SVM format
+### 1.2 Preprocessing
 Then batch examples and vectorize them:
 ```
 cd ../svm
@@ -107,21 +107,8 @@ temp/svmformat/union
 └── train.txt 							# training datasplit
 
 ```
-## 1.3 Training and Prediction
-For training and prediction on the SVM baseline download and install the [liblinear library](https://github.com/cjlin1/liblinear) in ```scripts/svm```. Use the appropiate directiory in ```./../../temp/svmformat/``` from either union or hypo for training and prediction. For example,
-```
-cd liblinear
-./train -C ./../../temp/svmformat/union/train.txt
-./train -c <best_c_value> ../svmformat/format/union/train.txt 	# <best_c_value> is the number obtained from last the iteration
-./predict ../svmformat/union/test_dev.txt train.txt.model output_dev.txt
-./predict ../svmformat/union/test_alpha1.txt train.txt.model output_test_alpha1.txt
-./predict ../svmformat/union/test_alpha2.txt train.txt.model output_test_alpha2.txt
-./predict ../svmformat/union/test_alpha3.txt train.txt.model output_test_alpha3.txt
 
-```
-```train.txt.model``` is the train model. ``` output_<split_name>.txt``` is the prediction for the mentioned split.
-
-## 2. Training and Prediction with RoBERTa
+## 2. Alignment
 ```data/maindata/``` and ```data/tables/``` will be the primary datasets folders to work on here.
 
 ### 2.1 Preprocessing
@@ -230,7 +217,7 @@ For prediction on INFOTABS with SNLI and MNLI datasets train RoBerta models. Do 
 
 For evaluation on metrics other than accuracy, such as F1-score, use the scikit-learn metrics functions with arguments as "predict" and "gold" lists from the predicted jsons.
 
-## 3. mturk Validation
+## 3. Updation
 ```data/validation/``` will be the primary dataset folder to work on here.
 
 ```
@@ -249,53 +236,5 @@ temp/validation/
     ├── test_alpha1.png 			# plot for alpha1 splits
     ├── test_alpha2.png 			# plot for alpha2 splits
     └── test_alpha3.png 			# plot for alpha3 splits
-
-```
-## 4. Statistics
-```data/maindata/```, ```data/tables/``` and ```data/reasoning/``` will be the primary datasets folders to work on here.
-
-### 4.1 General Statistics
-```data/maindata/``` and ```data/tables/``` will be the primary datasets folders to work on here.
-```
-mkdir ./../../temp/statistic
-python3 data_statistics.py > ./../../temp/statistic/general-statitics.txt			# output general statistics
-
-```
-### 4.2 Reasoning Statistics
-```data/reasoning/``` and ```data/tables/``` will be the primary datasets folders to work on here. 
-
-We need to first get predictions on the reasoning subset before running
-
-```
-# perform preprocessing as in section 1.1
-
-cd scripts
-mkdir ./../../temp
-mkdir ./../../temp/data/
-mkdir ./../../temp/data/reasoning
-python3 json_to_para.py --json_dir ./../../data/tables/json/ --data_dir ./../../data/reasoning/ --save_dir ./../../temp/data/reasoning/  --splits dev test_alpha3
-
-# perform vectorizing as in section 1.2
-mkdir ./../../temp/processed
-python3 preprocess_roberta.py --max_len 512 --data_dir ./../../temp/data/ --in_dir reasoning --out_dir ../processed/reasoning --single_sentence 0 --splits dev test_alpha3
-
-# do prediction by using the best train model on premises as in section 1.3
-set the arguments as 'in_dir' as "./../../temp/processed/parapremise/" and other parameters as "-- mode" t0 "test", "moder_dir" to "./../../temp/models/parapremise/", "model_name" is set to the best dev accuracy model name for ```temp/models/parapremise```, "parallel" to 0/1 similar to earlier instructions in classifier.sh
-
-```
-You will see a new ```./../../temp/models/reasoning/``` with files as ```predict_dev.json``` and ```predict_test_alpha3.json``` which is similar to earlier discussed prediction files. You can now run the reasoning statistics code as following:
-
-```
-mkdir ./../../temp/statistic
-python3 reasoning_statistics.py > ./../../temp/statistic/reasoning-statitics.txt			# output reasoning statistics
-
-```
-
-## ToDo
-
-```
-1. Table extractor, table-splitter, table2json codes (we manualy clean many jsons)
-2. Datasheet (in the data github directory)
-3. TabAttn code
 
 ```
