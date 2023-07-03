@@ -218,23 +218,9 @@ For prediction on INFOTABS with SNLI and MNLI datasets train RoBerta models. Do 
 For evaluation on metrics other than accuracy, such as F1-score, use the scikit-learn metrics functions with arguments as "predict" and "gold" lists from the predicted jsons.
 
 ## 3. Updation
-```data/validation/``` will be the primary dataset folder to work on here.
+```data/final_test_set/``` will be the primary dataset folder to work on here.
 
 ```
-mkdir ./../../temp/validation/
-mkdir ./../../temp/validation/plots
-bash validation.sh
+python align_update/updation.py
 ```
-You would see a ```temp/validation/``` folder created with the following structure 
-```
-
-temp/validation/
-│
-├── metric_summary.txt 				# summary of all the inter-annotator results, i.e., individual agreements (majority/gold) and the Kappa values
-└── plots 					# plots of percentage of number of gold and majority label agreements matches for 3,4, and 5 annotators agreements
-    ├── dev.png 				# plot for dev splits
-    ├── test_alpha1.png 			# plot for alpha1 splits
-    ├── test_alpha2.png 			# plot for alpha2 splits
-    └── test_alpha3.png 			# plot for alpha3 splits
-
-```
+You would see the print with the update results
