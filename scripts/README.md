@@ -57,55 +57,44 @@ data
 ```
  
 ## 1. Dataset
-```data/maindata/``` and ```data/tables/``` will be the primary datasets folders to work on here.
+```data/csv_data/``` and ```data/tables/``` will be the primary datasets folders to work on here.
 
 ### 1.1 Collection
 Preprocessing is separated into the following steps.
 
-First extract something out of the json files. Assume the data is downloaded and unpacked into ```data/maindata/```
-```
-cd scripts/preprocess/
-mkdir ./../../temp
-mkdir ./../../temp/data/
-mkdir ./../../temp/data/parapremise
-python3 json_to_para.py --json_dir ./../../data/tables/json/ --data_dir ./../../data/maindata/ --save_dir ./../../temp/data/parapremise/
+First scrape the infobox from all the wikipedia pages and store them as html. Assume the data is downloaded and unpacked into ```data/tables/html```
 
 ```
-You would see a ```temp/data/``` folder. ```temp/data/``` will contain sub-folders for several premise types. For example,
+cd scripts/data_collection/
+python3 infoboxextractor.py
+python3 csvtohtml.py
 ```
 
-temp/data/
-│ 
-└── parapremise 						# paragraph as premise
-    ├── dev.tsv 						# development datasplit
-    ├── test_alpha1.tsv 					# test alpha1 datasplit
-    ├── test_alpha2.tsv 					# test alpha2 datasplit
-    ├── test_alpha3.tsv 					# test alpha3 datasplit
-    └── train.tsv 						# training datasplit
+
+Second convert the html data into json format(key-value pairs from the infobox). Assume the data is downloaded and unpacked into ```data/tables/json```
 
 ```
-### 1.2 Preprocessing
-Then batch examples and vectorize them:
-```
-cd ../svm
-mkdir ./../../temp/svmformat
-mkdir ./../../temp/svmformat/hypo
-mkdir ./../../temp/svmformat/union 						
-python hypo.py 					#only hypothesis unigram-bigram tokens as features
-python union.py 				#union of premise and hypothesis unigram-bigram tokens as features
-
-```
-Your ```temp/svmformat/``` will contain sub-folders for the premise type (hypo, union). For example, 
+python3 htmltojson.py
 ```
 
-temp/svmformat/union
-│									
-├── dev.txt 							# development datasplit
-├── test_alpha1.txt 						# test alpha1 datasplit
-├── test_alpha2.txt 						# test alpha2 datasplit
-├── test_alpha3.txt 						# test alpha3 datasplit
-└── train.txt 							# training datasplit
+### 1.2 Translation
+The tables for all the 14 languages are translated to English
 
+```
+cd scripts/data_collection/
+python3 spacy_install.py
+python3 preprocessing.py
+python3 mbart_translate.py
+python3 marian_translate.py
+```
+
+A final_translations.html is created in each language folder.
+
+### 1.3 Dictionary
+To create dictionaries
+```
+cd scripts/data_collection/
+python3 dictionary_creation.py
 ```
 
 ## 2. Alignment
