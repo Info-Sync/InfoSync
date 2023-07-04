@@ -218,7 +218,7 @@ For prediction on INFOTABS with SNLI and MNLI datasets train RoBerta models. Do 
 For evaluation on metrics other than accuracy, such as F1-score, use the scikit-learn metrics functions with arguments as "predict" and "gold" lists from the predicted jsons.
 
 ## 3. Updation
-```data/final_test_set/``` will be the primary dataset folder to work on here.
+```data/updation_data/``` will be the primary dataset folder to work on here.
 
 ```
 python align_update/updation.py
