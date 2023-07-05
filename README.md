@@ -63,8 +63,10 @@ data
 │   |   |   |   ├── es
 │   |   |   |   |   ├── table.html
 │   |   |   |   |   ├── final_translations.html
-│   |   |   |   | 		
+│   |   |   |   |
+│   |   | 
 │
+|
 ├── final_test_set		            # test set, built using semi-automated pipeline. Annotated by humans using translations
 │   ├── Final_Test_Set_Eng_X 		    # contains files for Eng_X for all categories
 │   ├── Final_Test_Set_X_Y 	            # contains files for X_Y for all categories
