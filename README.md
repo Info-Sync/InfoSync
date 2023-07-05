@@ -48,6 +48,29 @@ data
 │   |   |   |   |   ├── table.html
 │   |   |   |   ├── fr
 │   |   |   |   |   ├── table.html
+│   |   |   |   ├── es
+│   |   |   |   |   ├── table.html
+│   |   |   |   | 		            
+│   |   ├── Company
+│   |   |   ├── WellsFargo
+│   |   |   |   ├── en
+│   |   |   |   |   ├── table.html
+│   |   |   |   ├── fr
+│   |   |   |   |   ├── table.html
+│   |   |   |   ├── es
+│   |   |   |   |   ├── table.html
+│   |   |   |   |
+│   |   | 
+│
+|
+├── final_test_set		            # test set, built using semi-automated pipeline. Annotated by humans using translations
+│   ├── Final_Test_Set_Eng_X 		    # contains files for Eng_X for all categories
+│   |   ├── Airport 	            
+│   |   |   ├── NioroAirport
+│   |   |   |   ├── en
+│   |   |   |   |   ├── table.html
+│   |   |   |   ├── fr
+│   |   |   |   |   ├── table.html
 │   |   |   |   |   ├── final_translations.html
 │   |   |   |   ├── es
 │   |   |   |   |   ├── table.html
@@ -64,32 +87,156 @@ data
 │   |   |   |   |   ├── table.html
 │   |   |   |   |   ├── final_translations.html
 │   |   |   |   |
-│   |   | 
-│
+│   |   |
 |
-├── final_test_set		            # test set, built using semi-automated pipeline. Annotated by humans using translations
-│   ├── Final_Test_Set_Eng_X 		    # contains files for Eng_X for all categories
 │   ├── Final_Test_Set_X_Y 	            # contains files for X_Y for all categories
+│   |   ├── Airport 	            
+│   |   |   ├── NioroAirport
+│   |   |   |   ├── en
+│   |   |   |   |   ├── table.html
+│   |   |   |   ├── fr
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   ├── es
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   | 		            
+│   |   ├── Company
+│   |   |   ├── WellsFargo
+│   |   |   |   ├── en
+│   |   |   |   |   ├── table.html
+│   |   |   |   ├── fr
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   ├── es
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |
+│   |   |
+|
 │   ├── Final_Test_Set_Eng_X.json 	    # json file with all annotations for Eng_X
 │   └── Final_Test_Set_X_Y.json 	    # json file with all annotations for X_Y
 │
 │
 ├── true_test_set			    # true-test-set, annotated by native speakers of Hindi and Chinese without using translations
 │   ├── True_Test_Set_HI 		    # contains files for Eng_HI for all categories
+│   |   ├── Airport 	            
+│   |   |   ├── NioroAirport
+│   |   |   |   ├── en
+│   |   |   |   |   ├── table.html
+│   |   |   |   ├── fr
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   ├── es
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   | 		            
+│   |   ├── Company
+│   |   |   ├── WellsFargo
+│   |   |   |   ├── en
+│   |   |   |   |   ├── table.html
+│   |   |   |   ├── fr
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   ├── es
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |
+│   |   |
+|
 │   ├── True_Test_Set_ZH 		    # contains files for Eng_ZH for all categories
+│   |   ├── Airport 	            
+│   |   |   ├── NioroAirport
+│   |   |   |   ├── en
+│   |   |   |   |   ├── table.html
+│   |   |   |   ├── fr
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   ├── es
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   | 		            
+│   |   ├── Company
+│   |   |   ├── WellsFargo
+│   |   |   |   ├── en
+│   |   |   |   |   ├── table.html
+│   |   |   |   ├── fr
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   ├── es
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |
+│   |   |
+|
 │   ├── True_Test_Set_HI.json 	            # json file with all annotations for Eng_HI
 │   └── True_Test_Set_ZH.json 		    # json file with all annotations for Eng_ZH
 |
+|
 ├── metadata 			            # metadata for error analysis
-│   ├── Metadata_Eng_X 
-│   ├── Metadata_X_Y						
+│   ├── Metadata_Eng_X
+│   |   ├── Airport 	            
+│   |   |   ├── NioroAirport
+│   |   |   |   ├── en
+│   |   |   |   |   ├── table.html
+│   |   |   |   ├── fr
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   ├── es
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   | 		            
+│   |   ├── Company
+│   |   |   ├── WellsFargo
+│   |   |   |   ├── en
+│   |   |   |   |   ├── table.html
+│   |   |   |   ├── fr
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   ├── es
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |
+│   |   |
+|
+│   ├── Metadata_X_Y
+│   |   ├── Airport 	            
+│   |   |   ├── NioroAirport
+│   |   |   |   ├── en
+│   |   |   |   |   ├── table.html
+│   |   |   |   ├── fr
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   ├── es
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   | 		            
+│   |   ├── Company
+│   |   |   ├── WellsFargo
+│   |   |   |   ├── en
+│   |   |   |   |   ├── table.html
+│   |   |   |   ├── fr
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   ├── es
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |
+│   |   |
+|	
 │   ├── Metadata_Eng_X.json 							
 |   └── Metadata_X_Y.json 
-│   		  
+│
+|
 ├── csv_data				    # csv data for all categories, with links for different wikipedia pages
+│   ├── Airport
+│   ├── Person
+│   ├── Planet
+│   ├── Company
+|   |
 │
 └── LICENSE, Datasheet, README.md, logo	    #license,datasheet,dataset readme, logo files.
 
 ```
-
+Note - Due to the large size of tree structure for the data it is partially listed to give reader an idea of folder organization.
 For the code, check out [here](https://github.com/Info-Sync/InfoSync/tree/main/scripts). Note : Wherever require consider year End of year 2022 as the build date for the dataset.
