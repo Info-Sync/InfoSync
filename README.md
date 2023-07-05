@@ -16,7 +16,54 @@ data
 │ 
 ├── tables
 │   ├── json				    # contains json data for all the categories. Files are in html format for easies understanding of the data
+│   |   ├── Airport 	            
+│   |   |   ├── NioroAirport
+│   |   |   |   ├── en
+│   |   |   |   |   ├── table.html
+│   |   |   |   ├── fr
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   ├── es
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   | 		            
+│   |   ├── Company
+│   |   |   ├── WellsFargo
+│   |   |   |   ├── en
+│   |   |   |   |   ├── table.html
+│   |   |   |   ├── fr
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   ├── es
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |
+│   |   |
+|
+|
 │   └── html                                # data scraped for all the categories
+│   |   ├── Airport 	            
+│   |   |   ├── NioroAirport
+│   |   |   |   ├── en
+│   |   |   |   |   ├── table.html
+│   |   |   |   ├── fr
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   ├── es
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   | 		            
+│   |   ├── Company
+│   |   |   ├── WellsFargo
+│   |   |   |   ├── en
+│   |   |   |   |   ├── table.html
+│   |   |   |   ├── fr
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   ├── es
+│   |   |   |   |   ├── table.html
+│   |   |   |   |   ├── final_translations.html
+│   |   |   |   | 		
 │
 ├── final_test_set		            # test set, built using semi-automated pipeline. Annotated by humans using translations
 │   ├── Final_Test_Set_Eng_X 		    # contains files for Eng_X for all categories
