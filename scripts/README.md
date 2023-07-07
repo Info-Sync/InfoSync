@@ -98,9 +98,9 @@ python3 dictionary_creation.py
 ```
 
 ## 2. Alignment
-```data/maindata/``` and ```data/tables/``` will be the primary datasets folders to work on here.
+```data/tables/```, ```data/final_test_set/```, ```data/true_test_set/``` and ```data/metadata/``` will be the primary datasets folders to work on here.
 
-### 2.1 Preprocessing
+<!-- ### 2.1 Preprocessing
 Preprocessing is separated into the following steps.
 
 First extract something out of the json files. Assume the data is downloaded and unpacked into ```data/maindata/```
@@ -204,7 +204,7 @@ For prediction on INFOTABS with SNLI and MNLI datasets train RoBerta models. Do 
 
 ```
 
-For evaluation on metrics other than accuracy, such as F1-score, use the scikit-learn metrics functions with arguments as "predict" and "gold" lists from the predicted jsons.
+For evaluation on metrics other than accuracy, such as F1-score, use the scikit-learn metrics functions with arguments as "predict" and "gold" lists from the predicted jsons. -->
 
 ## 3. Updation
 ```data/updation_data/``` will be the primary dataset folder to work on here.
