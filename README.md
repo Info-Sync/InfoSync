@@ -7,6 +7,10 @@ If you use our dataset, please cite our ACL 2023 paper: [InfoSync: Information S
 TO  BE ADDED
 ```
 
+```
+Note :- This repository is still under construction. Please wait until this note has been removed before using the associated data or code.
+```
+
 Carefully read the LICENCE and the Datasheet for non-academic usage. 
 
 After downloading, you have multiple sub-folders with several csv/html/json files. Each csv file in the sub-folders has 1st rows as a header:
