@@ -230,7 +230,7 @@ def update():
     rk = 0
     total = 0
 
-    test_file = open("live_new.json","r")
+    test_file = open("data/updation_data/Model.json","r")
     test_set = json.load(test_file)
     for category in test_set.keys():
         print(category)
@@ -246,16 +246,16 @@ def update():
                 # else:
                 print(lang_key)
                 try:
-                    table1_orig =  checker(open_table("tables/json/"+category+"/"+tables+"/"+lang1+"/table.html"),lang1,category+".csv")
+                    table1_orig =  checker(open_table("data/tables/json/"+category+"/"+tables+"/"+lang1+"/table.html"),lang1,category+".csv")
                     if lang1=="en":
                         table1_trans=table1_orig
                     else:
-                        table1_trans = checker(open_table("tables/json/"+category+"/"+tables+"/"+lang1+"/final_translations.html"),lang1,category+".csv")
-                    table2_orig = checker(open_table("tables/json/"+category+"/"+tables+"/"+lang2+"/table.html"),lang2,category+".csv")
+                        table1_trans = checker(open_table("data/tables/json/"+category+"/"+tables+"/"+lang1+"/final_translations.html"),lang1,category+".csv")
+                    table2_orig = checker(open_table("data/tables/json/"+category+"/"+tables+"/"+lang2+"/table.html"),lang2,category+".csv")
                     if lang2=="en":
                         table2_trans=table2_orig
                     else:
-                        table2_trans = checker(open_table("tables/json/"+category+"/"+tables+"/"+lang2+"/final_translations.html"),lang2,category+".csv")
+                        table2_trans = checker(open_table("data/tables/json/"+category+"/"+tables+"/"+lang2+"/final_translations.html"),lang2,category+".csv")
                     if len(table2_orig)!=len(table2_trans) or len(table1_orig)!=len(table1_trans):
                         continue
                 except KeyboardInterrupt:
