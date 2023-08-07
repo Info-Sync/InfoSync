@@ -1,3 +1,8 @@
+import re
+from collections import Counter
+import json
+import reader
+
 multikey_list = ["Opened","Language","President","Genre","Headquarters","Kingdom","Website","Type","Coordinates","Internet TLD","Born","Genus","Occupation","Density","Calling code","Time zone","Awards","Species","Years active","Country","Died","Location","Family","Labels","Order","Genres","Founded","Nationality","Official languages","Currency","Capital | and largest city","Capacity","Total"]
 multiKey_engX = {"Opened":[],"Language":[],"President":[],"Genre":[],"Headquarters":[],"Kingdom":[],"Website":[],"Type":[],"Coordinates":[],"Internet TLD":[],"Born":[],"Genus":[],"Occupation":[],"Density":[],"Calling code":[],"Time zone":[],"Awards":[],"Species":[],"Years active":[],"Country":[],"Died":[],"Location":[],"Family":[],"Labels":[],"Order":[],"Genres":[],"Founded":[],"Nationality":[],"Official languages":[],"Currency":[],"Capital | and largest city":[],"Capacity":[],"Total":[]}
 
@@ -245,21 +250,20 @@ def update():
                 #     continue
                 # else:
                 print(lang_key)
-                try:
-                    table1_orig =  checker(open_table("data/tables/json/"+category+"/"+tables+"/"+lang1+"/table.html"),lang1,category+".csv")
-                    if lang1=="en":
-                        table1_trans=table1_orig
-                    else:
-                        table1_trans = checker(open_table("data/tables/json/"+category+"/"+tables+"/"+lang1+"/final_translations.html"),lang1,category+".csv")
-                    table2_orig = checker(open_table("data/tables/json/"+category+"/"+tables+"/"+lang2+"/table.html"),lang2,category+".csv")
-                    if lang2=="en":
-                        table2_trans=table2_orig
-                    else:
-                        table2_trans = checker(open_table("data/tables/json/"+category+"/"+tables+"/"+lang2+"/final_translations.html"),lang2,category+".csv")
-                    if len(table2_orig)!=len(table2_trans) or len(table1_orig)!=len(table1_trans):
-                        continue
-                except KeyboardInterrupt:
-                    print(abcd)
+                
+                table1_orig =  reader.checker(reader.open_table("data/tables/json/"+category+"/"+tables+"/"+lang1+"/table.html"),lang1,category+".csv")
+                if lang1=="en":
+                    table1_trans=table1_orig
+                else:
+                    table1_trans = reader.checker(reader.open_table("data/tables/json/"+category+"/"+tables+"/"+lang1+"/final_translations.html"),lang1,category+".csv")
+                table2_orig = reader.checker(reader.open_table("data/tables/json/"+category+"/"+tables+"/"+lang2+"/table.html"),lang2,category+".csv")
+                if lang2=="en":
+                    table2_trans=table2_orig
+                else:
+                    table2_trans = reader.checker(reader.open_table("data/tables/json/"+category+"/"+tables+"/"+lang2+"/final_translations.html"),lang2,category+".csv")
+                if len(table2_orig)!=len(table2_trans) or len(table1_orig)!=len(table1_trans):
+                    continue
+                
                 al_t1 = []
                 al_t2 = []
                 for value in test_set[category][tables][lang_key]:
