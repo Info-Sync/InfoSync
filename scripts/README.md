@@ -1,3 +1,4 @@
+
 # InfoSync
 <!-- <p align="center"><img width="80%" src="logo.png" /></p> -->
 
@@ -99,6 +100,41 @@ python3 dictionary_creation.py
 
 ## 2. Alignment
 ```data/tables/```, ```data/final_test_set/```, ```data/true_test_set/``` and ```data/metadata/``` will be the primary datasets folders to work on here.
+To run the script you must set the correct values in the configuration file( below).
+The script can be run using the command
+```
+python3 alignment.py -cnf alignment_config.ini
+```
+The output is a json file with the alignments stored.
+
+### Alignment Configuration(alignment_config.ini)
+
+The alignment script can be run in 2 modes.
+```
+Pair mode
+Dataset mode
+```
+In pair mode, the alignment model is run on a specific table pair.
+In Dataset mode, the alignment model is run on an entire dataset.
+
+
+In pair mode, you need to specify the following in the config:
+```
+Category
+Table Name(as in dataset)
+Language 1
+Language 2
+File to write the output to
+```
+In dataset mode:
+```
+Language Type(Eng_X or X_Y)
+File to write the output to
+```
+Any one of these two sections needs to be filled based on the mode selected in the <b>[running] </b> section.
+
+The <b>[data]</b>  and <b>[alignment_params]</b> sections also need to be filled with the relevant information.
+
 
 <!-- ### 2.1 Preprocessing
 Preprocessing is separated into the following steps.
