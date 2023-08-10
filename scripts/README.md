@@ -5,7 +5,22 @@
 Implementation of the semi-structured inference model in our [ACL 2023](https://2023.aclweb.org/) paper: [INFOSYNC: Information Synchronization across Multilingual Semi-structured Tables](https://vgupta123.github.io/docs/infosync_paper.pdf). To explore the dataset online visit [project page](https://info-sync.github.io/info-sync/).
 
 ```
-TO BE ADDED
+@inproceedings{khincha-etal-2023-infosync,
+    title = "{I}nfo{S}ync: Information Synchronization across Multilingual Semi-structured Tables",
+    author = "Khincha, Siddharth  and
+      Jain, Chelsi  and
+      Gupta, Vivek  and
+      Kataria, Tushar  and
+      Zhang, Shuo",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-acl.159",
+    pages = "2536--2559",
+    abstract = "Information Synchronization of semi-structured data across languages is challenging. For example, Wikipedia tables in one language need to be synchronized with others. To address this problem, we introduce a new dataset InfoSync and a two-step method for tabular synchronization. InfoSync contains 100K entity-centric tables (Wikipedia Infoboxes) across 14 languages, of which a subset ({\textasciitilde}3.5K pairs) are manually annotated. The proposed method includes 1) Information Alignment to map rows and 2) Information Update for updating missing/outdated information for aligned tables across multilingual tables. When evaluated on InfoSync, information alignment achieves an F1 score of 87.91 (en {\textless}-{\textgreater} non-en). To evaluate information updation, we perform human-assisted Wikipedia edits on Infoboxes for 532 table pairs. Our approach obtains an acceptance rate of 77.28{\%} on Wikipedia, showing the effectiveness of the proposed method.",
+}
 ```
 
 Below are the details about the [INFOSYNC datasets](https://github.com/Info-Sync/InfoSync) and scripts for reproducing the results reported in the [ACL 2023](https://2023.aclweb.org/) paper.
