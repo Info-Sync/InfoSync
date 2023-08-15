@@ -41,10 +41,10 @@ data
 │   |   |   |   |   ├── table.html
 │   |   |   |   ├── fr
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   ├── es
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   | 		            
 │   |   ├── Company
 │   |   |   ├── WellsFargo
@@ -52,10 +52,10 @@ data
 │   |   |   |   |   ├── table.html
 │   |   |   |   ├── fr
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   ├── es
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   |
 │   |   |
 |
@@ -90,10 +90,10 @@ data
 │   |   |   |   |   ├── table.html
 │   |   |   |   ├── fr
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   ├── es
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   | 		            
 │   |   ├── Company
 │   |   |   ├── WellsFargo
@@ -101,10 +101,10 @@ data
 │   |   |   |   |   ├── table.html
 │   |   |   |   ├── fr
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   ├── es
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   |
 │   |   |
 |
@@ -115,10 +115,10 @@ data
 │   |   |   |   |   ├── table.html
 │   |   |   |   ├── fr
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   ├── es
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   | 		            
 │   |   ├── Company
 │   |   |   ├── WellsFargo
@@ -126,10 +126,10 @@ data
 │   |   |   |   |   ├── table.html
 │   |   |   |   ├── fr
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   ├── es
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   |
 │   |   |
 |
@@ -145,10 +145,10 @@ data
 │   |   |   |   |   ├── table.html
 │   |   |   |   ├── fr
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   ├── es
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   | 		            
 │   |   ├── Company
 │   |   |   ├── WellsFargo
@@ -156,10 +156,10 @@ data
 │   |   |   |   |   ├── table.html
 │   |   |   |   ├── fr
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   ├── es
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   |
 │   |   |
 |
@@ -170,10 +170,10 @@ data
 │   |   |   |   |   ├── table.html
 │   |   |   |   ├── fr
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   ├── es
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   | 		            
 │   |   ├── Company
 │   |   |   ├── WellsFargo
@@ -181,10 +181,10 @@ data
 │   |   |   |   |   ├── table.html
 │   |   |   |   ├── fr
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   ├── es
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   |
 │   |   |
 |
@@ -200,10 +200,10 @@ data
 │   |   |   |   |   ├── table.html
 │   |   |   |   ├── fr
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   ├── es
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   | 		            
 │   |   ├── Company
 │   |   |   ├── WellsFargo
@@ -211,10 +211,10 @@ data
 │   |   |   |   |   ├── table.html
 │   |   |   |   ├── fr
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   ├── es
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   |
 │   |   |
 |
@@ -225,10 +225,10 @@ data
 │   |   |   |   |   ├── table.html
 │   |   |   |   ├── fr
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   ├── es
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   | 		            
 │   |   ├── Company
 │   |   |   ├── WellsFargo
@@ -236,10 +236,10 @@ data
 │   |   |   |   |   ├── table.html
 │   |   |   |   ├── fr
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   ├── es
 │   |   |   |   |   ├── table.html
-│   |   |   |   |   ├── final_translations.html
+│   |   |   |   |   ├── updated.html
 │   |   |   |   |
 │   |   |
 |	
