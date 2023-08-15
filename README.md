@@ -192,7 +192,7 @@ data
 │   └── True_Test_Set_ZH.json 		    # json file with all annotations for Eng_ZH
 |
 |
-├── metadata                       # Human annotators also classify the types of errors present in the test data in one of the five categories 1) Disambiguation  |                               2) Human annotators also classify the types of errors present in the test data in one of the five categories 1) Disambiguation 2) |                               Multiple alignments 3) Partial or incorrect extraction 4) Wrong_translations 5) Key Paraphrasing. This evaluation helps           |                                 standardizing and comparing update methods against each other
+├── metadata                       # Human annotators also classify the types of errors present in the test data in one of the five categories 1) Disambiguation 2) Multiple alignments 3) Partial or incorrect extraction 4) Wrong_translations 5) Key Paraphrasing. This evaluation helps standardizing and comparing update methods against each other.
 │   ├── Metadata_Eng_X
 │   |   ├── Airport 	            
 │   |   |   ├── NioroAirport
