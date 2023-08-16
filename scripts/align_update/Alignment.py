@@ -211,13 +211,13 @@ def alignment_driver(table_name,category,lang1,lang2):
     if lang1=="en":
         table1_trans=table1_orig
     else:
-        table1_trans = reader.checker(reader.open_table("%s/json/%s/%s/%s/final_translations.html"%(config["data"]["datapath"],category,table_name,lang1)),lang1,category+".csv")
+        table1_trans = reader.checker(reader.open_table("%s/json/%s/%s/%s/translated_en.html"%(config["data"]["datapath"],category,table_name,lang1)),lang1,category+".csv")
     
     table2_orig = reader.checker(reader.open_table("%s/json/%s/%s/%s/table.html"%(config["data"]["datapath"],category,table_name,lang2)),lang2,category+".csv")
     if lang2=="en":
         table2_trans=table2_orig
     else:
-        table2_trans = reader.checker(reader.open_table("%s/json/%s/%s/%s/final_translations.html"%(config["data"]["datapath"],category,table_name,lang2)),lang2,category+".csv")
+        table2_trans = reader.checker(reader.open_table("%s/json/%s/%s/%s/translated_en.html"%(config["data"]["datapath"],category,table_name,lang2)),lang2,category+".csv")
     
  
 
