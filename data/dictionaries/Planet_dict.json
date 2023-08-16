@@ -1,0 +1,4050 @@
+[
+    {
+      "en": [
+        [
+          "right ascension",
+          102
+        ]
+      ],
+      "fr": [
+        [
+          "ascension droite",
+          68,
+          [
+            "right ascension",
+            52
+          ],
+          [
+            "ascension right",
+            16
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "declination",
+          102
+        ]
+      ],
+      "af": [
+        [
+          "deklinasie",
+          48,
+          [
+            "decline",
+            39
+          ],
+          [
+            "declination",
+            9
+          ]
+        ]
+      ],
+      "sv": [
+        [
+          "deklination",
+          56,
+          [
+            "declination",
+            37
+          ],
+          [
+            "declination.",
+            19
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "temperature",
+          79
+        ]
+      ],
+      "fr": [
+        [
+          "température",
+          35,
+          [
+            "temperature",
+            35
+          ]
+        ]
+      ],
+      "es": [
+        [
+          "temperatura superficial",
+          17,
+          [
+            "surface temperature",
+            17
+          ]
+        ]
+      ],
+      "zh": [
+        [
+          "溫度",
+          38,
+          [
+            "temperature",
+            38
+          ]
+        ]
+      ],
+      "ru": [
+        [
+          "температура",
+          68,
+          [
+            "temperature",
+            68
+          ]
+        ]
+      ],
+      "sv": [
+        [
+          "temperatur",
+          29,
+          [
+            "temperature",
+            29
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "constellation",
+          78
+        ]
+      ],
+      "fr": [
+        [
+          "constellation",
+          44,
+          [
+            "constellation",
+            44
+          ]
+        ],
+        [
+          "constellations limitrophes",
+          24,
+          [
+            "near constellations",
+            24
+          ]
+        ]
+      ],
+      "es": [
+        [
+          "constelación",
+          33,
+          [
+            "constellation",
+            33
+          ]
+        ],
+        [
+          "constelaciones | colindantes",
+          24,
+          [
+            "constellations | adjacent",
+            24
+          ]
+        ]
+      ],
+      "zh": [
+        [
+          "星座",
+          47,
+          [
+            "constellations",
+            32
+          ],
+          [
+            "constellation",
+            15
+          ]
+        ],
+        [
+          "鄰接星座",
+          24,
+          [
+            "neighboring constellations",
+            23
+          ],
+          [
+            "neighboring constellation",
+            1
+          ]
+        ]
+      ],
+      "ko": [
+        [
+          "별자리",
+          15,
+          [
+            "constellations.",
+            13
+          ],
+          [
+            "constellation",
+            2
+          ]
+        ]
+      ],
+      "ru": [
+        [
+          "созвездие",
+          67,
+          [
+            "constellation",
+            67
+          ]
+        ],
+        [
+          "соседние созвездия",
+          24,
+          [
+            "neighboring constellations",
+            24
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "distance",
+          78
+        ]
+      ],
+      "fr": [
+        [
+          "distance",
+          43,
+          [
+            "distance",
+            43
+          ]
+        ]
+      ],
+      "es": [
+        [
+          "distancia",
+          31,
+          [
+            "distance",
+            31
+          ]
+        ]
+      ],
+      "zh": [
+        [
+          "距离",
+          40,
+          [
+            "distance",
+            40
+          ]
+        ]
+      ],
+      "ru": [
+        [
+          "расстояние",
+          66,
+          [
+            "distance",
+            66
+          ]
+        ]
+      ],
+      "sv": [
+        [
+          "avstånd",
+          30,
+          [
+            "distance",
+            25
+          ],
+          [
+            "spacing",
+            3
+          ],
+          [
+            "distance.",
+            2
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "mass",
+          78
+        ]
+      ],
+      "fr": [
+        [
+          "masse",
+          36,
+          [
+            "mass",
+            36
+          ]
+        ]
+      ],
+      "es": [
+        [
+          "masa",
+          15,
+          [
+            "mass",
+            15
+          ]
+        ]
+      ],
+      "nl": [
+        [
+          "massa",
+          31,
+          [
+            "mass",
+            31
+          ]
+        ]
+      ],
+      "zh": [
+        [
+          "質量",
+          41,
+          [
+            "mass",
+            41
+          ]
+        ]
+      ],
+      "ru": [
+        [
+          "масса",
+          58,
+          [
+            "mass",
+            58
+          ]
+        ]
+      ],
+      "sv": [
+        [
+          "massa",
+          31,
+          [
+            "mass",
+            31
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "simbad",
+          78
+        ]
+      ],
+      "zh": [
+        [
+          "simbad",
+          29,
+          [
+            "simbad",
+            29
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "spectral type",
+          77
+        ]
+      ],
+      "fr": [
+        [
+          "type spectral",
+          41,
+          [
+            "spectral type",
+            41
+          ]
+        ]
+      ],
+      "nl": [
+        [
+          "spectraalklasse",
+          39,
+          [
+            "spectral class",
+            39
+          ]
+        ]
+      ],
+      "zh": [
+        [
+          "光谱分类",
+          43,
+          [
+            "spectral classification",
+            43
+          ]
+        ]
+      ],
+      "ru": [
+        [
+          "спектральный класс",
+          63,
+          [
+            "spectral class",
+            63
+          ]
+        ]
+      ],
+      "sv": [
+        [
+          "spektraltyp",
+          31,
+          [
+            "spectral type",
+            31
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "proper motion | (μ)",
+          77
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "metallicity",
+          77
+        ]
+      ],
+      "fr": [
+        [
+          "métallicité",
+          27,
+          [
+            "metallicity",
+            27
+          ]
+        ]
+      ],
+      "es": [
+        [
+          "metalicidad",
+          16,
+          [
+            "metallicity",
+            16
+          ]
+        ]
+      ],
+      "zh": [
+        [
+          "金属量",
+          17,
+          [
+            "metal quantity",
+            17
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "apparent magnitude | (v)",
+          75
+        ]
+      ],
+      "es": [
+        [
+          "mag. aparente | (v)",
+          19,
+          [
+            "mag. apparent | (v)",
+            18
+          ],
+          [
+            "apparent mag. | (v)",
+            1
+          ]
+        ]
+      ],
+      "sv": [
+        [
+          "skenbar magnitud ( | v | {\\displaystyle v} | )",
+          30,
+          [
+            "significant magnitude",
+            14
+          ],
+          [
+            "significant magnitude ( | v | {\\displaystyle v} | )",
+            3
+          ],
+          [
+            "significant magnitude (| v | {\\displaystyle v} | )",
+            8
+          ],
+          [
+            "apparent magnitude",
+            1
+          ],
+          [
+            "tangible magnitude ( | v | {\\displaystyle v} | )",
+            1
+          ],
+          [
+            "apparent magnitude ( | v | {\\displaystyle v} | )",
+            2
+          ],
+          [
+            "apparent magnitude (| v | {\\displaystyle v} | )",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "parallax | (π)",
+          75
+        ]
+      ],
+      "fr": [
+        [
+          "parallaxe",
+          43,
+          [
+            "parallax",
+            43
+          ]
+        ]
+      ],
+      "sv": [
+        [
+          "parallax ( | π | π | {\\displaystyle \\pi } | )",
+          26,
+          [
+            "parallax ( | π | π | {\\displaystyle \\pi } | )",
+            25
+          ],
+          [
+            "parallax ( | π | π | )",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "other designations",
+          73
+        ]
+      ],
+      "es": [
+        [
+          "otras designaciones",
+          17,
+          [
+            "other designations",
+            17
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "radius",
+          68
+        ]
+      ],
+      "zh": [
+        [
+          "半徑",
+          35,
+          [
+            "radius",
+            35
+          ]
+        ]
+      ],
+      "ru": [
+        [
+          "радиус",
+          60,
+          [
+            "radius",
+            60
+          ]
+        ]
+      ],
+      "sv": [
+        [
+          "radie",
+          29,
+          [
+            "radius",
+            29
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "surface gravity | (log | g | )",
+          60
+        ]
+      ],
+      "fr": [
+        [
+          "gravité de surface (log g)",
+          17,
+          [
+            "surface gravity (log g)",
+            17
+          ]
+        ]
+      ],
+      "zh": [
+        [
+          "表面重力 | (log | g | )",
+          24,
+          [
+            "surface gravity | (log | g | )",
+            24
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "age",
+          59
+        ]
+      ],
+      "fr": [
+        [
+          "âge",
+          24,
+          [
+            "age",
+            24
+          ]
+        ]
+      ],
+      "es": [
+        [
+          "edad",
+          15,
+          [
+            "age",
+            15
+          ]
+        ]
+      ],
+      "zh": [
+        [
+          "年齡",
+          30,
+          [
+            "age",
+            30
+          ]
+        ]
+      ],
+      "ru": [
+        [
+          "возраст",
+          29,
+          [
+            "age",
+            29
+          ]
+        ]
+      ],
+      "sv": [
+        [
+          "ålder",
+          28,
+          [
+            "age",
+            22
+          ],
+          [
+            "age.",
+            3
+          ],
+          [
+            "years",
+            2
+          ],
+          [
+            "ages",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "radial velocity | (r | v | )",
+          52
+        ]
+      ],
+      "zh": [
+        [
+          "徑向速度 | (r | v | )",
+          27,
+          [
+            "radial velocity | (r | v | )",
+            27
+          ]
+        ]
+      ],
+      "sv": [
+        [
+          "radialhastighet ( | r | v | {\\displaystyle r_{v}} | )",
+          28,
+          [
+            "radial velocity ( | r | v | {\\displaystyle r_{v}} | )",
+            28
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "rotational velocity | ( | v | sin | i | )",
+          51
+        ]
+      ],
+      "zh": [
+        [
+          "徑向速度 | (r | v | )",
+          27,
+          [
+            "radial velocity | (r | v | )",
+            27
+          ]
+        ]
+      ],
+      "sv": [
+        [
+          "radialhastighet ( | r | v | {\\displaystyle r_{v}} | )",
+          28,
+          [
+            "radial velocity ( | r | v | {\\displaystyle r_{v}} | )",
+            28
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "luminosity",
+          43
+        ]
+      ],
+      "fr": [
+        [
+          "luminosité",
+          32,
+          [
+            "brightness",
+            19
+          ],
+          [
+            "luminosity",
+            13
+          ]
+        ]
+      ],
+      "es": [
+        [
+          "luminosidad",
+          25,
+          [
+            "luminosity",
+            11
+          ],
+          [
+            "brightness",
+            14
+          ]
+        ]
+      ],
+      "sv": [
+        [
+          "luminositet",
+          26,
+          [
+            "luminosity",
+            26
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "b−v color index",
+          40
+        ]
+      ],
+      "zh": [
+        [
+          "b−v 色指数",
+          28,
+          [
+            "b−v color index",
+            28
+          ]
+        ],
+        [
+          "u−b 色指数",
+          18,
+          [
+            "u−b color index",
+            18
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "absolute magnitude | (m | v | )",
+          38
+        ]
+      ],
+      "zh": [
+        [
+          "绝对星等 | (m | v | )",
+          22,
+          [
+            "absolute star magnitude | (m | v | )",
+            22
+          ]
+        ]
+      ],
+      "ru": [
+        [
+          "абсолютная звёздная величина | (v)",
+          42,
+          [
+            "absolute star magnitude | (v)",
+            38
+          ],
+          [
+            "absolute star size | (v)",
+            4
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "rotation",
+          30
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "pronunciation",
+          27
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "extrasolar planets | encyclopaedia",
+          26
+        ]
+      ],
+      "zh": [
+        [
+          "系外行星百科",
+          15,
+          [
+            "encyclopedia of extraterrestrial planets",
+            15
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "exoplanet archive",
+          24
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "abbreviation",
+          24
+        ]
+      ],
+      "fr": [
+        [
+          "abréviation",
+          24,
+          [
+            "abbreviation",
+            24
+          ]
+        ]
+      ],
+      "es": [
+        [
+          "abreviatura",
+          24,
+          [
+            "abbreviation",
+            24
+          ]
+        ]
+      ],
+      "af": [
+        [
+          "afkorting",
+          24,
+          [
+            "acronym",
+            2
+          ],
+          [
+            "abbreviation",
+            22
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "genitive",
+          24
+        ]
+      ],
+      "af": [
+        [
+          "genitief",
+          24,
+          [
+            "genitive",
+            24
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "symbolism",
+          24
+        ]
+      ],
+      "ru": [
+        [
+          "символ",
+          24,
+          [
+            "symbol",
+            24
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "area",
+          24
+        ]
+      ],
+      "ar": [
+        [
+          "المساحة",
+          15,
+          [
+            "the area",
+            15
+          ]
+        ]
+      ],
+      "zh": [
+        [
+          "面積",
+          24,
+          [
+            "area",
+            24
+          ]
+        ]
+      ],
+      "ru": [
+        [
+          "площадь",
+          24,
+          [
+            "area",
+            24
+          ]
+        ]
+      ],
+      "sv": [
+        [
+          "area",
+          26,
+          [
+            "area",
+            26
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "main stars",
+          24
+        ]
+      ],
+      "es": [
+        [
+          "número | de estrellas",
+          24,
+          [
+            "number | stars",
+            24
+          ]
+        ]
+      ],
+      "af": [
+        [
+          "naaste ster",
+          24,
+          [
+            "nearest star",
+            24
+          ]
+        ]
+      ],
+      "sv": [
+        [
+          "huvudstjärnor",
+          24,
+          [
+            "main stars",
+            24
+          ]
+        ],
+        [
+          "ljusaste stjärnan",
+          24,
+          [
+            "brightest star",
+            15
+          ],
+          [
+            "lightest star",
+            8
+          ],
+          [
+            "the brightest star on the planet.",
+            1
+          ]
+        ],
+        [
+          "närmaste stjärnan",
+          24,
+          [
+            "nearest star",
+            24
+          ]
+        ],
+        [
+          "närliggande stjärnbilder",
+          24,
+          [
+            "nearby star images",
+            9
+          ],
+          [
+            "nearby stars",
+            15
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "bayer/flamsteed | stars",
+          24
+        ]
+      ],
+      "fr": [
+        [
+          "bayer / flamsteed",
+          24,
+          [
+            "bayer / flamsteed",
+            24
+          ]
+        ]
+      ],
+      "ar": [
+        [
+          "نجوم | باير/فلامستيد",
+          15,
+          [
+            "stars | bayer/flamsted",
+            15
+          ]
+        ]
+      ],
+      "af": [
+        [
+          "bayer-/flamsteed-sterre",
+          23,
+          [
+            "bayer-/flamsteed-stars",
+            14
+          ],
+          [
+            "bayer/flamsteed-stars",
+            9
+          ]
+        ]
+      ],
+      "sv": [
+        [
+          "bayer/flamsteedstjärnor",
+          24,
+          [
+            "bayer/flamsteed stars",
+            22
+          ],
+          [
+            "bayer/flamsteed star",
+            2
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "stars with planets",
+          24
+        ]
+      ],
+      "ar": [
+        [
+          "نجوم مع كواكب",
+          15,
+          [
+            "stars with planets",
+            15
+          ]
+        ]
+      ],
+      "af": [
+        [
+          "sterre met planete",
+          24,
+          [
+            "stars with planets",
+            24
+          ]
+        ]
+      ],
+      "sv": [
+        [
+          "stjärnor med exoplaneter",
+          24,
+          [
+            "stars with exoplanets",
+            24
+          ]
+        ],
+        [
+          "närliggande stjärnbilder",
+          24,
+          [
+            "nearby star images",
+            9
+          ],
+          [
+            "nearby stars",
+            15
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "stars brighter than 3.00 | m",
+          24
+        ]
+      ],
+      "ru": [
+        [
+          "ярчайшие звёзды | (видимая звёздная величина < 3 | m | )",
+          24,
+          [
+            "brightest stars | (visible star size < 3 | m | )",
+            23
+          ],
+          [
+            "brightest stars | (visible star magnitude < 3 | m | )",
+            1
+          ]
+        ]
+      ],
+      "tr": [
+        [
+          "parlak yıldızlar | (kadir < 3)",
+          24,
+          [
+            "bright stars | (number < 3)",
+            24
+          ]
+        ]
+      ],
+      "af": [
+        [
+          "sterre helderder as 3 m",
+          23,
+          [
+            "stars brighter than 3 m",
+            23
+          ]
+        ]
+      ],
+      "sv": [
+        [
+          "stjärnor med skenbar magnitud < 3",
+          24,
+          [
+            "stars that are scanned down to three orders of magnitude.",
+            22
+          ],
+          [
+            "stars with a scanning magnitude of < 3",
+            2
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "stars within 10.00 pc (32.62 ly)",
+          24
+        ]
+      ],
+      "ar": [
+        [
+          "النجوم ضمن | 10.00 فرسخ فلكي | (32.62 سنة ضوئية)",
+          15,
+          [
+            "stars within | 10.00 astronomical farsh | (32.62 light years)",
+            12
+          ],
+          [
+            "stars within | 10.00 astronomical faras: (32.62 light years)",
+            3
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "brightest star",
+          24
+        ]
+      ],
+      "fr": [
+        [
+          "la plus brillante",
+          24,
+          [
+            "the brightest",
+            24
+          ]
+        ]
+      ],
+      "es": [
+        [
+          "estrella | más brillante",
+          24,
+          [
+            "star | brightest",
+            22
+          ],
+          [
+            "star | brighter",
+            1
+          ],
+          [
+            "estrella | more brilliant",
+            1
+          ]
+        ]
+      ],
+      "tr": [
+        [
+          "en parlak yıldızı",
+          24,
+          [
+            "the brightest star",
+            24
+          ]
+        ]
+      ],
+      "sv": [
+        [
+          "ljusaste stjärnan",
+          24,
+          [
+            "brightest star",
+            15
+          ],
+          [
+            "lightest star",
+            8
+          ],
+          [
+            "the brightest star on the planet.",
+            1
+          ]
+        ],
+        [
+          "närmaste stjärnan",
+          24,
+          [
+            "nearest star",
+            24
+          ]
+        ],
+        [
+          "närliggande stjärnbilder",
+          24,
+          [
+            "nearby star images",
+            9
+          ],
+          [
+            "nearby stars",
+            15
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "messier objects",
+          24
+        ]
+      ],
+      "fr": [
+        [
+          "objets de messier",
+          24,
+          [
+            "messier objects",
+            24
+          ]
+        ]
+      ],
+      "es": [
+        [
+          "objetos | messier",
+          24,
+          [
+            "objects | messier",
+            24
+          ]
+        ]
+      ],
+      "af": [
+        [
+          "messier-voorwerpe",
+          23,
+          [
+            "messier objects",
+            23
+          ]
+        ]
+      ],
+      "sv": [
+        [
+          "messierobjekt",
+          24,
+          [
+            "messier object",
+            24
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "meteor showers",
+          24
+        ]
+      ],
+      "es": [
+        [
+          "lluvias | de meteoros",
+          24,
+          [
+            "rain | meteors",
+            18
+          ],
+          [
+            "rains | meteors",
+            5
+          ],
+          [
+            "rain | by meteors",
+            1
+          ]
+        ]
+      ],
+      "zh": [
+        [
+          "流星雨",
+          24,
+          [
+            "flood rain",
+            1
+          ],
+          [
+            "frozen rain",
+            1
+          ],
+          [
+            "meteor showers",
+            16
+          ],
+          [
+            "rains of meteors",
+            3
+          ],
+          [
+            "a meteor shower",
+            1
+          ],
+          [
+            "\"rain\"",
+            1
+          ],
+          [
+            "fluid rain",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "bordering | constellations",
+          24
+        ]
+      ],
+      "fr": [
+        [
+          "constellations limitrophes",
+          24,
+          [
+            "near constellations",
+            24
+          ]
+        ]
+      ],
+      "es": [
+        [
+          "constelación",
+          33,
+          [
+            "constellation",
+            33
+          ]
+        ],
+        [
+          "constelaciones | colindantes",
+          24,
+          [
+            "constellations | adjacent",
+            24
+          ]
+        ]
+      ],
+      "zh": [
+        [
+          "星座",
+          47,
+          [
+            "constellations",
+            32
+          ],
+          [
+            "constellation",
+            15
+          ]
+        ],
+        [
+          "鄰接星座",
+          24,
+          [
+            "neighboring constellations",
+            23
+          ],
+          [
+            "neighboring constellation",
+            1
+          ]
+        ]
+      ],
+      "ko": [
+        [
+          "별자리",
+          15,
+          [
+            "constellations.",
+            13
+          ],
+          [
+            "constellation",
+            2
+          ]
+        ]
+      ],
+      "ru": [
+        [
+          "созвездие",
+          67,
+          [
+            "constellation",
+            67
+          ]
+        ],
+        [
+          "соседние созвездия",
+          24,
+          [
+            "neighboring constellations",
+            24
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "u−b color index",
+          17
+        ]
+      ],
+      "zh": [
+        [
+          "b−v 色指数",
+          28,
+          [
+            "b−v color index",
+            28
+          ]
+        ],
+        [
+          "u−b 色指数",
+          18,
+          [
+            "u−b color index",
+            18
+          ]
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "evolutionary stage",
+          16
+        ]
+      ]
+    },
+    {
+      "en": [
+        [
+          "kic",
+          16
+        ]
+      ]
+    },
+    {
+      "fr": [
+        [
+          "déclinaison",
+          68,
+          [
+            "decline",
+            68
+          ]
+        ]
+      ],
+      "es": [
+        [
+          "declinación",
+          24,
+          [
+            "decline",
+            24
+          ]
+        ]
+      ],
+      "af": [
+        [
+          "deklinasie",
+          48,
+          [
+            "decline",
+            39
+          ],
+          [
+            "declination",
+            9
+          ]
+        ]
+      ]
+    },
+    {
+      "fr": [
+        [
+          "mouvement propre",
+          43,
+          [
+            "clean motion",
+            43
+          ]
+        ]
+      ]
+    },
+    {
+      "fr": [
+        [
+          "magnitude apparente",
+          41,
+          [
+            "apparent magnitude",
+            41
+          ]
+        ],
+        [
+          "magnitude absolue",
+          19,
+          [
+            "absolute magnitude",
+            19
+          ]
+        ]
+      ],
+      "es": [
+        [
+          "magnitud absoluta",
+          23,
+          [
+            "absolute magnitude",
+            23
+          ]
+        ]
+      ]
+    },
+    {
+      "fr": [
+        [
+          "vitesse radiale",
+          37,
+          [
+            "radial speed",
+            37
+          ]
+        ]
+      ],
+      "es": [
+        [
+          "velocidad radial",
+          22,
+          [
+            "radial speed",
+            22
+          ]
+        ]
+      ]
+    },
+    {
+      "fr": [
+        [
+          "rayon",
+          34,
+          [
+            "rayon",
+            16
+          ],
+          [
+            "ray",
+            18
+          ]
+        ]
+      ]
+    },
+    {
+      "fr": [
+        [
+          "nom latin",
+          24,
+          [
+            "latin name",
+            24
+          ]
+        ]
+      ],
+      "es": [
+        [
+          "nombre | en latín",
+          24,
+          [
+            "name | latin",
+            24
+          ]
+        ]
+      ],
+      "ar": [
+        [
+          "الاسم اللاتيني",
+          15,
+          [
+            "latin name",
+            15
+          ]
+        ]
+      ],
+      "af": [
+        [
+          "latynse naam",
+          24,
+          [
+            "latin name",
+            24
+          ]
+        ]
+      ],
+      "sv": [
+        [
+          "latinskt namn",
+          24,
+          [
+            "there's a latin word for that.",
+            24
+          ]
+        ]
+      ]
+    },
+    {
+      "fr": [
+        [
+          "génitif",
+          24,
+          [
+            "genital",
+            21
+          ],
+          [
+            "genetic",
+            2
+          ],
+          [
+            "genitif",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "fr": [
+        [
+          "observation",
+          24,
+          [
+            "observation",
+            24
+          ]
+        ]
+      ]
+    },
+    {
+      "fr": [
+        [
+          "taille observable",
+          24,
+          [
+            "size observable",
+            20
+          ],
+          [
+            "observable size",
+            4
+          ]
+        ]
+      ],
+      "af": [
+        [
+          "grootte",
+          24,
+          [
+            "size",
+            24
+          ]
+        ]
+      ]
+    },
+    {
+      "fr": [
+        [
+          "visibilité",
+          24,
+          [
+            "visibility",
+            24
+          ]
+        ]
+      ],
+      "es": [
+        [
+          "visibilidad",
+          24,
+          [
+            "visibility",
+            24
+          ]
+        ]
+      ]
+    },
+    {
+      "fr": [
+        [
+          "méridien",
+          24,
+          [
+            "méridien",
+            1
+          ],
+          [
+            "meridian",
+            23
+          ]
+        ]
+      ]
+    },
+    {
+      "fr": [
+        [
+          "brillantes (m≤3,0)",
+          24,
+          [
+            "brilliant (m≤3.0)",
+            24
+          ]
+        ]
+      ]
+    },
+    {
+      "fr": [
+        [
+          "à l’œil nu",
+          24,
+          [
+            "with the naked eye",
+            24
+          ]
+        ]
+      ]
+    },
+    {
+      "fr": [
+        [
+          "proches (d≤16 al)",
+          24,
+          [
+            "near (d≤16 a)",
+            24
+          ]
+        ]
+      ]
+    },
+    {
+      "fr": [
+        [
+          "la plus proche",
+          24,
+          [
+            "nearest",
+            24
+          ]
+        ]
+      ]
+    },
+    {
+      "fr": [
+        [
+          "essaims météoritiques",
+          24,
+          [
+            "meteorological tests",
+            9
+          ],
+          [
+            "meteoric tests",
+            13
+          ],
+          [
+            "weather tests",
+            2
+          ]
+        ]
+      ]
+    },
+    {
+      "es": [
+        [
+          "radio",
+          28,
+          [
+            "radio",
+            28
+          ]
+        ]
+      ]
+    },
+    {
+      "es": [
+        [
+          "nombre | en español",
+          24,
+          [
+            "name | in spanish",
+            13
+          ],
+          [
+            "name | spanish",
+            11
+          ]
+        ]
+      ]
+    },
+    {
+      "es": [
+        [
+          "genitivo",
+          24,
+          [
+            "genitivo",
+            10
+          ],
+          [
+            "genitive",
+            6
+          ],
+          [
+            "genital",
+            8
+          ]
+        ]
+      ]
+    },
+    {
+      "es": [
+        [
+          "superficie",
+          24,
+          [
+            "surface",
+            24
+          ]
+        ]
+      ]
+    },
+    {
+      "es": [
+        [
+          "ascensión | recta",
+          24,
+          [
+            "ascension | straight",
+            24
+          ]
+        ],
+        [
+          "ascensión recta (α)",
+          21,
+          [
+            "ascension straight (α)",
+            21
+          ]
+        ]
+      ]
+    },
+    {
+      "es": [
+        [
+          "objetos ngc",
+          24,
+          [
+            "ngc objects",
+            6
+          ],
+          [
+            "objects ngc",
+            18
+          ]
+        ]
+      ]
+    },
+    {
+      "es": [
+        [
+          "objetos | caldwell",
+          24,
+          [
+            "objects | caldwell",
+            24
+          ]
+        ]
+      ]
+    },
+    {
+      "es": [
+        [
+          "constelaciones | colindantes",
+          24,
+          [
+            "constellations | adjacent",
+            24
+          ]
+        ]
+      ],
+      "zh": [
+        [
+          "星座",
+          47,
+          [
+            "constellations",
+            32
+          ],
+          [
+            "constellation",
+            15
+          ]
+        ],
+        [
+          "鄰接星座",
+          24,
+          [
+            "neighboring constellations",
+            23
+          ],
+          [
+            "neighboring constellation",
+            1
+          ]
+        ]
+      ],
+      "ko": [
+        [
+          "별자리",
+          15,
+          [
+            "constellations.",
+            13
+          ],
+          [
+            "constellation",
+            2
+          ]
+        ]
+      ],
+      "ru": [
+        [
+          "созвездие",
+          67,
+          [
+            "constellation",
+            67
+          ]
+        ],
+        [
+          "соседние созвездия",
+          24,
+          [
+            "neighboring constellations",
+            24
+          ]
+        ]
+      ]
+    },
+    {
+      "es": [
+        [
+          "mes",
+          24,
+          [
+            "month",
+            24
+          ]
+        ]
+      ]
+    },
+    {
+      "es": [
+        [
+          "introducida por",
+          23,
+          [
+            "introduced by",
+            23
+          ]
+        ]
+      ]
+    },
+    {
+      "es": [
+        [
+          "ascensión recta (α)",
+          21,
+          [
+            "ascension straight (α)",
+            21
+          ]
+        ]
+      ]
+    },
+    {
+      "es": [
+        [
+          "declinación (δ)",
+          21,
+          [
+            "decline (φ)",
+            21
+          ]
+        ]
+      ]
+    },
+    {
+      "nl": [
+        [
+          "portaal",
+          41,
+          [
+            "portal",
+            41
+          ]
+        ]
+      ],
+      "af": [
+        [
+          "portaal",
+          46,
+          [
+            "gateway",
+            46
+          ]
+        ]
+      ]
+    },
+    {
+      "nl": [
+        [
+          "sterrenbeeld",
+          39,
+          [
+            "astronomy",
+            9
+          ],
+          [
+            "starry sky.",
+            12
+          ],
+          [
+            "eclipse",
+            1
+          ],
+          [
+            "asteroids",
+            5
+          ],
+          [
+            "an image of stars",
+            1
+          ],
+          [
+            "image",
+            7
+          ],
+          [
+            "picture of stars",
+            2
+          ],
+          [
+            "star image",
+            1
+          ],
+          [
+            "star images",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "nl": [
+        [
+          "rechte klimming",
+          39,
+          [
+            "right climbing",
+            18
+          ],
+          [
+            "right-clicking",
+            20
+          ],
+          [
+            "right-clicking.",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "nl": [
+        [
+          "overige aanduidingen",
+          31,
+          [
+            "other clues",
+            21
+          ],
+          [
+            "other indications",
+            3
+          ],
+          [
+            "other identifiers",
+            7
+          ]
+        ]
+      ]
+    },
+    {
+      "nl": [
+        [
+          "declinatie | (epoche 2000)",
+          26,
+          [
+            "decline | (epoch 2000)",
+            26
+          ]
+        ]
+      ]
+    },
+    {
+      "nl": [
+        [
+          "afstand | * | (lj)",
+          26,
+          [
+            "distance | * | (lj)",
+            26
+          ]
+        ]
+      ]
+    },
+    {
+      "nl": [
+        [
+          "details",
+          26,
+          [
+            "details",
+            26
+          ]
+        ]
+      ]
+    },
+    {
+      "nl": [
+        [
+          "schijnbare magnitude",
+          24,
+          [
+            "cruel magnitude.",
+            14
+          ],
+          [
+            "visible magnitude",
+            5
+          ],
+          [
+            "gravity",
+            5
+          ]
+        ]
+      ]
+    },
+    {
+      "nl": [
+        [
+          "planeten",
+          22,
+          [
+            "planets.",
+            22
+          ]
+        ]
+      ]
+    },
+    {
+      "zh": [
+        [
+          "赤經",
+          72,
+          [
+            "red cross",
+            65
+          ],
+          [
+            "the red cross",
+            6
+          ],
+          [
+            "equator",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "zh": [
+        [
+          "赤緯",
+          72,
+          [
+            "latitude",
+            60
+          ],
+          [
+            "latitudes",
+            11
+          ],
+          [
+            "red latitude",
+            1
+          ]
+        ]
+      ],
+      "ru": [
+        [
+          "видимо в широтах",
+          24,
+          [
+            "apparently in latitudes",
+            24
+          ]
+        ]
+      ]
+    },
+    {
+      "zh": [
+        [
+          "星官",
+          47,
+          [
+            "astronomer",
+            44
+          ],
+          [
+            "star officer",
+            1
+          ],
+          [
+            "planetary",
+            1
+          ],
+          [
+            "star trek",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "zh": [
+        [
+          "視星等 | （v）",
+          47,
+          [
+            "star magnitude | (v)",
+            47
+          ]
+        ],
+        [
+          "绝对星等 | (m | v | )",
+          22,
+          [
+            "absolute star magnitude | (m | v | )",
+            22
+          ]
+        ]
+      ],
+      "ru": [
+        [
+          "видимая звёздная величина | ( | v | )",
+          63,
+          [
+            "visible star magnitude | ( | v | )",
+            40
+          ],
+          [
+            "apparent star magnitude | ( | v | )",
+            12
+          ],
+          [
+            "apparent star size | ( | v | )",
+            4
+          ],
+          [
+            "visible star size | ( | v | )",
+            7
+          ]
+        ],
+        [
+          "абсолютная звёздная величина | (v)",
+          42,
+          [
+            "absolute star magnitude | (v)",
+            38
+          ],
+          [
+            "absolute star size | (v)",
+            4
+          ]
+        ]
+      ]
+    },
+    {
+      "zh": [
+        [
+          "其他命名",
+          46,
+          [
+            "other names",
+            46
+          ]
+        ]
+      ],
+      "af": [
+        [
+          "ander name",
+          23,
+          [
+            "other names",
+            23
+          ]
+        ]
+      ]
+    },
+    {
+      "zh": [
+        [
+          "自行 | (μ)",
+          35,
+          [
+            "self | (μ)",
+            35
+          ]
+        ]
+      ]
+    },
+    {
+      "zh": [
+        [
+          "视差 | (π)",
+          31,
+          [
+            "visual difficulty | (π)",
+            28
+          ],
+          [
+            "visual difference | (π)",
+            1
+          ],
+          [
+            "perspective | (π)",
+            2
+          ]
+        ]
+      ]
+    },
+    {
+      "zh": [
+        [
+          "縮寫",
+          24,
+          [
+            "synchronization",
+            21
+          ],
+          [
+            "acronym",
+            1
+          ],
+          [
+            "abbreviation",
+            1
+          ],
+          [
+            "synonym",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "zh": [
+        [
+          "所有格",
+          24,
+          [
+            "all grades",
+            11
+          ],
+          [
+            "all gs",
+            10
+          ],
+          [
+            "all categories",
+            2
+          ],
+          [
+            "all g",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "zh": [
+        [
+          "鄰接星座",
+          24,
+          [
+            "neighboring constellations",
+            23
+          ],
+          [
+            "neighboring constellation",
+            1
+          ]
+        ]
+      ],
+      "ko": [
+        [
+          "별자리",
+          15,
+          [
+            "constellations.",
+            13
+          ],
+          [
+            "constellation",
+            2
+          ]
+        ]
+      ],
+      "ru": [
+        [
+          "созвездие",
+          67,
+          [
+            "constellation",
+            67
+          ]
+        ],
+        [
+          "соседние созвездия",
+          24,
+          [
+            "neighboring constellations",
+            24
+          ]
+        ]
+      ]
+    },
+    {
+      "ko": [
+        [
+          "학명",
+          24,
+          [
+            "honor.",
+            21
+          ],
+          [
+            "acronym",
+            2
+          ],
+          [
+            "title",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "ko": [
+        [
+          "약자",
+          24,
+          [
+            "acronym",
+            4
+          ],
+          [
+            "narrator.",
+            13
+          ],
+          [
+            "ownership",
+            1
+          ],
+          [
+            "meaning",
+            1
+          ],
+          [
+            "synonym",
+            5
+          ]
+        ]
+      ]
+    },
+    {
+      "ko": [
+        [
+          "소유격",
+          24,
+          [
+            "ownership",
+            23
+          ],
+          [
+            "symbol",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "ko": [
+        [
+          "상징",
+          24,
+          [
+            "symbol",
+            23
+          ],
+          [
+            "equator",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "ko": [
+        [
+          "적경",
+          24,
+          [
+            "equator",
+            23
+          ],
+          [
+            "south china",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "ko": [
+        [
+          "적위",
+          24,
+          [
+            "southeast",
+            12
+          ],
+          [
+            "southwest",
+            8
+          ],
+          [
+            "observable. altitude",
+            1
+          ],
+          [
+            "south china",
+            1
+          ],
+          [
+            "southern",
+            1
+          ],
+          [
+            "the enemy.",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "ko": [
+        [
+          "남중",
+          24,
+          [
+            "observable",
+            15
+          ],
+          [
+            "size",
+            1
+          ],
+          [
+            "observable. altitude",
+            7
+          ],
+          [
+            "southeast",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "ko": [
+        [
+          "관측 가능",
+          24,
+          [
+            "width",
+            16
+          ],
+          [
+            "size",
+            2
+          ],
+          [
+            "number of stars. rating",
+            1
+          ],
+          [
+            "the width.",
+            4
+          ],
+          [
+            "observable",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "ko": [
+        [
+          "넓이",
+          24,
+          [
+            "number of stars.",
+            9
+          ],
+          [
+            "number of stars. rating",
+            10
+          ],
+          [
+            "number of stars. ( rating < 3.00 | m | )",
+            2
+          ],
+          [
+            "brightest star",
+            1
+          ],
+          [
+            "width",
+            1
+          ],
+          [
+            "number of stars",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "ko": [
+        [
+          "별의 수 | (등급<3.00 | m | )",
+          24,
+          [
+            "brightest star",
+            20
+          ],
+          [
+            "yr",
+            1
+          ],
+          [
+            "the brightest star",
+            1
+          ],
+          [
+            "number of stars.",
+            1
+          ],
+          [
+            "brightest stars",
+            1
+          ]
+        ]
+      ],
+      "tr": [
+        [
+          "en parlak yıldızı",
+          24,
+          [
+            "the brightest star",
+            24
+          ]
+        ]
+      ],
+      "sv": [
+        [
+          "ljusaste stjärnan",
+          24,
+          [
+            "brightest star",
+            15
+          ],
+          [
+            "lightest star",
+            8
+          ],
+          [
+            "the brightest star on the planet.",
+            1
+          ]
+        ],
+        [
+          "närmaste stjärnan",
+          24,
+          [
+            "nearest star",
+            24
+          ]
+        ]
+      ]
+    },
+    {
+      "ko": [
+        [
+          "가장 밝은 별",
+          24,
+          [
+            "uranus",
+            9
+          ],
+          [
+            "yunmu.",
+            4
+          ],
+          [
+            "neighborhood constellations",
+            1
+          ],
+          [
+            "yr",
+            7
+          ],
+          [
+            "brightest star",
+            1
+          ],
+          [
+            "saturn. uranus",
+            2
+          ]
+        ]
+      ]
+    },
+    {
+      "ko": [
+        [
+          "유성우",
+          23,
+          [
+            "neighboring constellations",
+            10
+          ],
+          [
+            "neighboring stars",
+            9
+          ],
+          [
+            "neighboring zodiac signs",
+            2
+          ],
+          [
+            "uranus",
+            1
+          ],
+          [
+            "neighboring zodiac",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "ru": [
+        [
+          "прямое восхождение",
+          91,
+          [
+            "direct ascent",
+            91
+          ]
+        ],
+        [
+          " прямое восхождение",
+          67,
+          [
+            "direct ascension",
+            66
+          ],
+          [
+            "direct rise",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "ru": [
+        [
+          "склонение",
+          91,
+          [
+            "rotation",
+            11
+          ],
+          [
+            "declination",
+            64
+          ],
+          [
+            "slope",
+            7
+          ],
+          [
+            "deviation",
+            9
+          ]
+        ]
+      ]
+    },
+    {
+      "ru": [
+        [
+          " прямое восхождение",
+          67,
+          [
+            "direct ascension",
+            66
+          ],
+          [
+            "direct rise",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "ru": [
+        [
+          " склонение",
+          67,
+          [
+            "deviation",
+            63
+          ],
+          [
+            "rotation",
+            4
+          ]
+        ]
+      ]
+    },
+    {
+      "ru": [
+        [
+          "параллакс | (π)",
+          67,
+          [
+            "parallax | (π)",
+            66
+          ],
+          [
+            "parallels | (π)",
+            1
+          ]
+        ]
+      ],
+      "sv": [
+        [
+          "parallax ( | π | π | {\\displaystyle \\pi } | )",
+          26,
+          [
+            "parallax ( | π | π | {\\displaystyle \\pi } | )",
+            25
+          ],
+          [
+            "parallax ( | π | π | )",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "ru": [
+        [
+          "металличность",
+          62,
+          [
+            "metalness",
+            14
+          ],
+          [
+            "metallocity",
+            19
+          ],
+          [
+            "metamorphism",
+            1
+          ],
+          [
+            "metal properties",
+            12
+          ],
+          [
+            "metallличность",
+            5
+          ],
+          [
+            "metality",
+            6
+          ],
+          [
+            "metacity",
+            1
+          ],
+          [
+            "materiality",
+            2
+          ],
+          [
+            "metal",
+            1
+          ],
+          [
+            "metallicity",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "ru": [
+        [
+          "simbad",
+          62,
+          [
+            "simbad",
+            60
+          ],
+          [
+            "aricns",
+            1
+          ],
+          [
+            "star system",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "ru": [
+        [
+          "светимость",
+          61,
+          [
+            "lightness",
+            57
+          ],
+          [
+            "brightness",
+            4
+          ]
+        ]
+      ]
+    },
+    {
+      "ru": [
+        [
+          "лучевая скорость | ( | r | v | )",
+          54,
+          [
+            "moon speed | ( | r | v | )",
+            54
+          ]
+        ]
+      ]
+    },
+    {
+      "ru": [
+        [
+          "b−v",
+          50,
+          [
+            "b−v",
+            50
+          ]
+        ]
+      ]
+    },
+    {
+      "ru": [
+        [
+          "вращение",
+          48,
+          [
+            "rotation",
+            41
+          ],
+          [
+            "codes in catalogues",
+            2
+          ],
+          [
+            "simbad",
+            5
+          ]
+        ]
+      ]
+    },
+    {
+      "ru": [
+        [
+          "тип",
+          33,
+          [
+            "type",
+            33
+          ]
+        ]
+      ]
+    },
+    {
+      "ru": [
+        [
+          "переменность",
+          32,
+          [
+            "transition",
+            4
+          ],
+          [
+            "variance",
+            9
+          ],
+          [
+            "variable",
+            18
+          ],
+          [
+            "variability",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "ru": [
+        [
+          "коды в каталогах",
+          32,
+          [
+            "codes in catalogs",
+            1
+          ],
+          [
+            "codes in catalogues",
+            23
+          ],
+          [
+            "simbad",
+            2
+          ],
+          [
+            "catalog codes",
+            6
+          ]
+        ]
+      ]
+    },
+    {
+      "ru": [
+        [
+          "сокращение",
+          24,
+          [
+            "reduction",
+            15
+          ],
+          [
+            "termination",
+            7
+          ],
+          [
+            "reducing",
+            2
+          ]
+        ]
+      ]
+    },
+    {
+      "ru": [
+        [
+          "метеорные потоки",
+          24,
+          [
+            "meteor flows",
+            3
+          ],
+          [
+            "meteoric flows",
+            2
+          ],
+          [
+            "planetary flows",
+            13
+          ],
+          [
+            "planetary currents",
+            1
+          ],
+          [
+            "metamorphoses",
+            2
+          ],
+          [
+            "meta-streams",
+            1
+          ],
+          [
+            "meteorites",
+            1
+          ],
+          [
+            "meteonic currents",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "ru": [
+        [
+          "соседние созвездия",
+          24,
+          [
+            "neighboring constellations",
+            24
+          ]
+        ]
+      ]
+    },
+    {
+      "ru": [
+        [
+          "u−b",
+          20,
+          [
+            "u−b",
+            20
+          ]
+        ]
+      ]
+    },
+    {
+      "tr": [
+        [
+          "kısaltma",
+          24,
+          [
+            "summary",
+            4
+          ],
+          [
+            "shortcut",
+            15
+          ],
+          [
+            "abbreviation",
+            4
+          ],
+          [
+            "abstract",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "tr": [
+        [
+          "tamlayan",
+          24,
+          [
+            "tamlayan",
+            2
+          ],
+          [
+            "completed",
+            3
+          ],
+          [
+            "fuller",
+            13
+          ],
+          [
+            "the completer",
+            4
+          ],
+          [
+            "the perfecter",
+            1
+          ],
+          [
+            "the fulfiller",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "tr": [
+        [
+          "simge",
+          24,
+          [
+            "symbol",
+            14
+          ],
+          [
+            "simge",
+            10
+          ]
+        ]
+      ]
+    },
+    {
+      "tr": [
+        [
+          "bahar açısı",
+          24,
+          [
+            "spring view",
+            24
+          ]
+        ]
+      ]
+    },
+    {
+      "tr": [
+        [
+          "yükselim",
+          24,
+          [
+            "rise",
+            19
+          ],
+          [
+            "ascension",
+            5
+          ]
+        ]
+      ]
+    },
+    {
+      "tr": [
+        [
+          "alan",
+          24,
+          [
+            "space",
+            24
+          ]
+        ]
+      ]
+    },
+    {
+      "tr": [
+        [
+          "çevreleyen | takımyıldızlar",
+          24,
+          [
+            "environment | comets",
+            9
+          ],
+          [
+            "encircling | comets",
+            14
+          ],
+          [
+            "environments | comets",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "tr": [
+        [
+          "göktaşı yağmurları",
+          21,
+          [
+            "sunset rains",
+            3
+          ],
+          [
+            "galactic rains",
+            4
+          ],
+          [
+            "lightning rains",
+            7
+          ],
+          [
+            "cloudy rains",
+            7
+          ]
+        ]
+      ]
+    },
+    {
+      "af": [
+        [
+          "regte klimming",
+          47,
+          [
+            "right click",
+            47
+          ]
+        ]
+      ]
+    },
+    {
+      "af": [
+        [
+          "kwadrant",
+          24,
+          [
+            "quadrant",
+            24
+          ]
+        ]
+      ]
+    },
+    {
+      "af": [
+        [
+          "hoofsterre",
+          24,
+          [
+            "headers",
+            15
+          ],
+          [
+            "holes",
+            1
+          ],
+          [
+            "hubs",
+            1
+          ],
+          [
+            "stars",
+            1
+          ],
+          [
+            "hoofsterre",
+            3
+          ],
+          [
+            "hubble",
+            3
+          ]
+        ]
+      ]
+    },
+    {
+      "af": [
+        [
+          "helderste ster",
+          24,
+          [
+            "brightest star",
+            22
+          ],
+          [
+            "hottest star",
+            1
+          ],
+          [
+            "hottest stars",
+            1
+          ]
+        ]
+      ],
+      "sv": [
+        [
+          "ljusaste stjärnan",
+          24,
+          [
+            "brightest star",
+            15
+          ],
+          [
+            "lightest star",
+            8
+          ],
+          [
+            "the brightest star on the planet.",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "af": [
+        [
+          "aangrensende sterrebeelde",
+          24,
+          [
+            "nearby stars",
+            1
+          ],
+          [
+            "neighboring star images",
+            2
+          ],
+          [
+            "adjacent star images",
+            4
+          ],
+          [
+            "adjoining star images",
+            8
+          ],
+          [
+            "bordered images",
+            1
+          ],
+          [
+            "nearby star images",
+            3
+          ],
+          [
+            "border star images",
+            5
+          ]
+        ]
+      ],
+      "sv": [
+        [
+          "närliggande stjärnbilder",
+          24,
+          [
+            "nearby star images",
+            9
+          ],
+          [
+            "nearby stars",
+            15
+          ]
+        ]
+      ]
+    },
+    {
+      "af": [
+        [
+          "spektraaltipe",
+          23,
+          [
+            "spectral",
+            22
+          ],
+          [
+            "spectrum",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "af": [
+        [
+          "sterrebeeld",
+          22,
+          [
+            "mirror image",
+            22
+          ]
+        ]
+      ]
+    },
+    {
+      "af": [
+        [
+          "massa (m | ☉ | )",
+          22,
+          [
+            "mass (m | ☉ | )",
+            22
+          ]
+        ]
+      ]
+    },
+    {
+      "af": [
+        [
+          "radius (r | ☉ | )",
+          22,
+          [
+            "radius (r | ☉ | )",
+            22
+          ]
+        ]
+      ]
+    },
+    {
+      "af": [
+        [
+          "skynmagnitude (m)",
+          21,
+          [
+            "sky magnitude (m)",
+            1
+          ],
+          [
+            "magnitude (m)",
+            20
+          ]
+        ]
+      ]
+    },
+    {
+      "af": [
+        [
+          "temperatuur (k)",
+          21,
+          [
+            "temperature (k)",
+            21
+          ]
+        ]
+      ],
+      "sv": [
+        [
+          "temperatur",
+          29,
+          [
+            "temperature",
+            29
+          ]
+        ]
+      ]
+    },
+    {
+      "sv": [
+        [
+          "rektascension",
+          56,
+          [
+            "right-ascension",
+            53
+          ],
+          [
+            "rectascension.",
+            1
+          ],
+          [
+            "ascension",
+            2
+          ]
+        ]
+      ]
+    },
+    {
+      "sv": [
+        [
+          "stjärnbild",
+          32,
+          [
+            "star. star",
+            2
+          ],
+          [
+            "star image",
+            1
+          ],
+          [
+            "image of the star. planet",
+            1
+          ],
+          [
+            "picture of stars.",
+            22
+          ],
+          [
+            "starrise. planet",
+            2
+          ],
+          [
+            "saturn. ab",
+            1
+          ],
+          [
+            "a star. star",
+            1
+          ],
+          [
+            "image of the star. star",
+            1
+          ],
+          [
+            "star. planet",
+            1
+          ]
+        ],
+        [
+          "närmaste stjärnan",
+          24,
+          [
+            "nearest star",
+            24
+          ]
+        ],
+        [
+          "närliggande stjärnbilder",
+          24,
+          [
+            "nearby star images",
+            9
+          ],
+          [
+            "nearby stars",
+            15
+          ]
+        ]
+      ]
+    },
+    {
+      "sv": [
+        [
+          "andra beteckningar",
+          31,
+          [
+            "other designations",
+            29
+          ],
+          [
+            "now, here are some other take-home messages.",
+            2
+          ]
+        ]
+      ]
+    },
+    {
+      "sv": [
+        [
+          "egenrörelse ( | µ | )",
+          28,
+          [
+            "involuntary movement.",
+            28
+          ]
+        ]
+      ]
+    },
+    {
+      "sv": [
+        [
+          "metallicitet",
+          28,
+          [
+            "solid metal",
+            9
+          ],
+          [
+            "metal law.",
+            15
+          ],
+          [
+            "metal lith",
+            2
+          ],
+          [
+            "metal detector",
+            1
+          ],
+          [
+            "solid metal. sun",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "sv": [
+        [
+          "absolut magnitud ( | m | v | {\\displaystyle m_{v}} | )",
+          27,
+          [
+            "absolute magnitude ( | m | v | {\\displaystyle m_{v}} | )",
+            22
+          ],
+          [
+            "absolute magnitude",
+            2
+          ],
+          [
+            "absolute magnitude (| m | v | {\\displaystyle m_{v}} | )",
+            2
+          ],
+          [
+            "absolute magnitude (| m | v | )",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "sv": [
+        [
+          "b–v",
+          26,
+          [
+            "a to z",
+            8
+          ],
+          [
+            "a.v.",
+            4
+          ],
+          [
+            "a-v",
+            5
+          ],
+          [
+            "b.v.",
+            5
+          ],
+          [
+            "b-v",
+            3
+          ],
+          [
+            "a, b and c",
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "sv": [
+        [
+          "förkortning",
+          24,
+          [
+            "acronym",
+            13
+          ],
+          [
+            "shrink.",
+            9
+          ],
+          [
+            "shorthand. ab",
+            2
+          ]
+        ]
+      ]
+    },
+    {
+      "sv": [
+        [
+          "stjärnor närmare än 50 ljusår",
+          24,
+          [
+            "stars that are over 50 light years old.",
+            13
+          ],
+          [
+            "stars closer to 50 light years",
+            11
+          ]
+        ]
+      ]
+    },
+    {
+      "sv": [
+        [
+          "närmaste stjärnan",
+          24,
+          [
+            "nearest star",
+            24
+          ]
+        ],
+        [
+          "närliggande stjärnbilder",
+          24,
+          [
+            "nearby star images",
+            9
+          ],
+          [
+            "nearby stars",
+            15
+          ]
+        ]
+      ]
+    },
+    {
+      "sv": [
+        [
+          "meteorregn",
+          24,
+          [
+            "meteoroid. wind",
+            2
+          ],
+          [
+            "asteroid. meteor",
+            1
+          ],
+          [
+            "no. meteor",
+            9
+          ],
+          [
+            "meteor seasons",
+            1
+          ],
+          [
+            "meteor showers.",
+            5
+          ],
+          [
+            "three. meteor",
+            3
+          ],
+          [
+            "meteoroid. council",
+            1
+          ],
+          [
+            "the asteroid rings. meteor",
+            1
+          ],
+          [
+            "meteoroids",
+            1
+          ]
+        ]
+      ]
+    }
+  ]
