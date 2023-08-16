@@ -119,10 +119,23 @@ def align_with_dictionary_new(table1_orig,table2_orig,table1_trans,table2_trans,
 def alignment_key_dict(table1_orig,table2_orig,table1_trans,table2_trans,category,languages):
     dict_set = eval(config["alignment_params"]["dict_set"])
     KeyBidirectional_threshold = float(config["alignment_params"]["KeyBidirectional_threshold"])
-    ValueBidirectional_threshold = float(config["alignment_params"]["ValueBidirectional"])
+    ValueBidirectional_threshold = float(config["alignment_params"]["ValueBidirectional_threshold"])
     Valueunidirectional_threshold = float(config["alignment_params"]["Valueunidirectional_threshold"])
     Valuemulti_threshold = float(config["alignment_params"]["Valuemulti_threshold"])
     max_multi = int(config["alignment_params"]["max_multi"])
+    param_mapping = {
+        "dict_set" : dict_set,
+        "KeyBidirectional_threshold" : KeyBidirectional_threshold,
+        "ValueBidirectional" : ValueBidirectional_threshold,
+        "Valueunidirectional_threshold" : Valueunidirectional_threshold,
+        "Valuemulti_threshold" : Valuemulti_threshold,
+    }
+    if config["running"]["ablations"].strip() == "True":
+        for key in config["ablations"]:
+            if config["ablations"][key].strip() == "True":
+                param_mapping[key] = 0
+                if key=="dict_set":
+                    dict_set=False
 
     if(len(table1_orig)!=0 and len(table2_orig)!=0):
             try:
