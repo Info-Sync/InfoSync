@@ -1,4 +1,5 @@
 
+
 # InfoSync
 <!-- <p align="center"><img width="80%" src="logo.png" /></p> -->
 
@@ -157,6 +158,7 @@ Any one of these two sections needs to be filled based on the mode selected in t
 
 The <b>[data]</b>  and <b>[alignment_params]</b> sections also need to be filled with the relevant information.
 
+If <b>ablations</b> are set to <i>True</i> in the <b>[running] </b> section, setting any parameter in the <b>[ablations]</b> section to <i>True</i> ablates that parameter from the model.
 
 <!-- ### 2.1 Preprocessing
 Preprocessing is separated into the following steps.
