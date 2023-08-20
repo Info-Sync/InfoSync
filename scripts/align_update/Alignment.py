@@ -8,6 +8,7 @@ import json
 import configparser
 import argparse
 import reader
+import metric
 
 ##Input: 2 Tables
 ##Output: A list containing [embedding vector of table1, embedding vector of table2] 
@@ -277,6 +278,11 @@ if __name__ == "__main__":
     config = configparser.ConfigParser()
     config.read(args.cnf)
 
+    if config["running"]["metric"].strip() == "True":
+        test_set_file = open(config["metric"]["test_set_path"],"r")
+        test_set = json.load(test_set_file)
+        precision, recall, unaligned_precision, unaligned_recall = [], [], [], []
+        
     languages = ["en","es","nl","fr","ru","zh","hi","de","ar","af","ceb","hi","ko","tr"]
     eng_x = ["en_es","en_nl","en_fr","en_ru","en_zh","en_hi","en_de","en_ar","en_af","en_ceb","en_hi","en_ko","en_tr"]
     xy = ["fr_ru","fr_de","fr_ko","fr_hi","fr_ar","de_ru","de_ko","de_hi","de_ar","ru_ko","ru_hi","ru_ar","ko_hi","ko_ar","hi_ar"]
@@ -306,7 +312,28 @@ if __name__ == "__main__":
                     langs = xy
                 for pair in langs:
                     dict_aligned, key_aligned, vals_aligned, valw_aligned, multi_aligned ,complete_alignment, unal_t1, unal_t2,table1_orig, table2_orig = alignment_driver(table_name,category,pair.split("_")[0],pair.split("_")[0])
-                    output[category][table_name][pair] = complete_alignment
+                    complete_aligned = np.unique(complete_aligned,axis=0)
+                    output[category][table_name][pair] = complete_aligned
+
+
+                    if config["running"]["metric"]=="True" and len(complete_aligned)!=0 and len(table1_orig):
+                        if len(test_set[category][table_name].keys()[0].split("_"))>1:
+                            k3 = pair
+                        else:
+                            k3 = pair.split("_")[1]
+                        if len(test_set[category][table_name][k3])!=0:
+                            prec, rec = metric.get_metric(complete_aligned,test_set[pair[1]][pair[0]][k3])
+                            unprec, unrec = metric.getUnMetric(complete_aligned,test_set[pair[1]][pair[0]][k3],table1_orig,table2_orig)
+                            precision.append(prec)
+                            recall.append(rec)
+                            unaligned_precision.append(unprec)
+                            unaligned_recall.append(unrec)
+
         file = open(config["dataset_mode"]["dump_file"],"w")
         json.dump(output,file)
         file.close()
+
+        print("Average Aligned Precision per table: %d"%np.mean(precision))
+        print("Average Aligned Recall per table: %d"%np.mean(recall))
+        print("Average Unaligned Precision per table: %d"%np.mean(unaligned_precision))
+        print("Average Unaligned Recall per table: %d"%np.mean(unaligned_recall))
