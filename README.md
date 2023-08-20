@@ -1,7 +1,7 @@
 # InfoSync
 <!-- <p align="center"><img width="80%" src="logo.png" /></p> -->
 
-If you use our dataset, please cite our ACL 2023 paper: [InfoSync: Information Synchronization across Multilingual Semi-structured Tables](https://vgupta123.github.io/docs/infosync_paper.pdf).
+If you use our dataset, please cite our ACL 2023 paper: [InfoSync: Information Synchronization across Multilingual Semi-structured Tables](https://aclanthology.org/2023.findings-acl.159/).
 
 ```
 @inproceedings{khincha-etal-2023-infosync,
