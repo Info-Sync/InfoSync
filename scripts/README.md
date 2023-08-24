@@ -80,7 +80,7 @@ data
 
 ```
  
-## 1. Dataset
+## 1. Dataset Construction
 ```data/csv_data/``` and ```data/tables/``` will be the primary datasets folders to work on here.
 
 ### 1.1 Collection
@@ -121,7 +121,7 @@ cd scripts/data_collection/
 python3 dictionary_creation.py
 ```
 
-## 2. Alignment
+## 2. Table Alignment
 ```data/tables/```, ```data/final_test_set/```, ```data/true_test_set/``` and ```data/metadata/``` will be the primary datasets folders to work on here.
 To run the script you must set the correct values in the configuration file( below).
 The script can be run using the command
@@ -159,6 +159,8 @@ Any one of these two sections needs to be filled based on the mode selected in t
 The <b>[data]</b>  and <b>[alignment_params]</b> sections also need to be filled with the relevant information.
 
 If <b>ablations</b> are set to <i>True</i> in the <b>[running] </b> section, setting any parameter in the <b>[ablations]</b> section to <i>True</i> ablates that parameter from the model.
+
+If <b>metric</b> is set to <i>True</i> in the <b>[running] </b> section, on providing a path to a relevant test set in the <b>[metric]</b> section will print the relevant Precision and Recall scores. 
 
 <!-- ### 2.1 Preprocessing
 Preprocessing is separated into the following steps.
@@ -266,7 +268,7 @@ For prediction on INFOTABS with SNLI and MNLI datasets train RoBerta models. Do 
 
 For evaluation on metrics other than accuracy, such as F1-score, use the scikit-learn metrics functions with arguments as "predict" and "gold" lists from the predicted jsons. -->
 
-## 3. Updation
+## 3. Table Updation
 ```data/updation_data/``` will be the primary dataset folder to work on here.
 
 ```
